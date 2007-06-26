@@ -1,0 +1,8 @@
+<servers>
+<server id="0" name="ncbi netblast"><parameters><parameter required="true" name="classname">InvokeNetBlast</parameter><parameter required="true" name="command">C:\\netblast\\blastcl3</parameter><parameter required="false" name="program">blastp</parameter></parameters>
+</server>
+<server id="1" name="SGE Blast"><parameters><parameter required="true" 
+name="classname">InvokeSGEBlast</parameter><parameter required="true" 
+name="command">/usr/pub/molbio/perl/blastpgp.pl</parameter><parameter required="false" name="maxali">3000</parameter><parameter required="true" name="program">/opt/sge/bin/lx26-amd64/qsub</parameter><parameter required="false" name="priority">0.01</parameter></parameters>
+</server>
+</servers>
