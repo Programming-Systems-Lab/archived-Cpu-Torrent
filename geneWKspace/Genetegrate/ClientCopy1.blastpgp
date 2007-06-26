@@ -1,0 +1,1402 @@
+BLASTP 2.2.15 [Oct-15-2006]
+
+
+Reference: Altschul, Stephen F., Thomas L. Madden, Alejandro A. Schaffer, 
+Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), 
+"Gapped BLAST and PSI-BLAST: a new generation of protein database search
+programs",  Nucleic Acids Res. 25:3389-3402.
+
+Query= 1V76:A
+         (96 letters)
+
+Database: All non-redundant GenBank CDS
+translations+PDB+SwissProt+PIR+PRF excluding environmental samples
+from WGS projects
+           4,904,269 sequences; 1,693,139,330 total letters
+
+
+
+                                                                 Score    E
+Sequences producing significant alignments:                      (bits) Value
+
+pdb|1V76|A Chain A, Crystal Structure Of Archaeal Ribonuclease P...   201   7e-051
+ref|NP_143607.1| ribonuclease P protein component 1 [Pyrococcus ...   199   3e-050
+ref|NP_126024.1| ribonuclease P protein component 1 [Pyrococcus ...   180   2e-044
+ref|NP_579545.1| ribonuclease P protein component 1 [Pyrococcus ...   166   5e-040
+ref|YP_183946.1| ribonuclease P protein component 1 [Thermococcu...   138   8e-032
+ref|NP_247439.1| hypothetical protein MJ0464 [Methanocaldococcus...    85   1e-015
+pdb|1OQK|A Chain A, Structure Of Mth11: A Homologue Of Human Rna...    82   7e-015
+ref|NP_275156.1| hypothetical protein MTH11 [Methanothermobacter...    82   7e-015
+ref|NP_614499.1| RNAse P subunit P29 [Methanopyrus kandleri AV19...    79   7e-014
+ref|ZP_01702799.1| Ribonuclease P, Rpp29 [Methanococcus vannieli...    76   6e-013
+ref|YP_447931.1| putative ribonuclease P, component 1 [Methanosp...    75   8e-013
+ref|YP_303669.1| putative ribonuclease P subunit P29 [Methanosar...    74   2e-012
+ref|NP_616025.1| hypothetical protein MA1080 [Methanosarcina ace...    71   2e-011
+ref|YP_001046487.1| Ribonuclease P, Rpp29 [Methanoculleus marisn...    71   2e-011
+ref|ZP_01799859.1| Ribonuclease P, Rpp29 [Methanococcus maripalu...    70   3e-011
+ref|YP_001041033.1| Ribonuclease P, Rpp29 [Staphylothermus marin...    70   3e-011
+ref|ZP_01798673.1| Ribonuclease P, Rpp29 [Methanococcus aeolicus...    70   4e-011
+ref|NP_988527.1| hypothetical protein MMP1407 [Methanococcus mar...    69   1e-010
+ref|YP_844126.1| Ribonuclease P, Rpp29 [Methanosaeta thermophila...    69   1e-010
+ref|NP_634156.1| Ribonuclease P protein subunit P29 [Methanosarc...    68   1e-010
+ref|YP_919897.1| Ribonuclease P, Rpp29 [Thermofilum pendens Hrk ...    67   4e-010
+sp|P22527|RNP1_HALMA Ribonuclease P protein component 1 (RNase P...    66   5e-010
+emb|CAJ37613.1| putative RNase P, component 1 [uncultured methan...    64   2e-009
+ref|YP_001096703.1| Ribonuclease P, Rpp29 [Methanococcus maripal...    64   2e-009
+ref|YP_331160.1| ribonuclease P protein component 1 [Natronomona...    64   2e-009
+ref|YP_564783.1| Ribonuclease P subunit [Methanococcoides burton...    64   3e-009
+ref|YP_001013483.1| ribonuclease P protein component 1 [Hyperthe...    62   1e-008
+ref|NP_147179.1| ribonuclease P protein component 1 [Aeropyrum p...    58   1e-007
+ref|YP_503669.1| Ribonuclease P subunit [Methanospirillum hungat...    56   5e-007
+gb|AAA86867.1| ribosomal protein                                       55   9e-007
+gb|AAU84021.1| hypothetical protein GZ35D7_6 [uncultured archaeo...    52   7e-006
+sp|P60834|RNP1_SULTO Ribonuclease P protein component 1 (RNase P...    51   2e-005
+ref|ZP_01709067.1| hypothetical protein Faci_03001135 [Ferroplas...    51   2e-005
+ref|YP_001190200.1| Ribonuclease P, Rpp29 [Metallosphaera sedula...    51   2e-005
+gb|ABK77498.1| RNase P/RNase MRP subunit p29 [Cenarchaeum symbio...    50   3e-005
+ref|NP_280464.1| hypothetical protein VNG1699C [Halobacterium sp...    47   4e-004
+ref|NP_070742.1| hypothetical protein AF1917 [Archaeoglobus fulg...    45   0.001
+ref|XP_001123127.1| PREDICTED: similar to CG8038-PA [Apis mellif...    44   0.002
+pdb|1TS9|A Chain A, Crystal Structure Of The Archaeal Homolog Of...    44   0.002
+ref|XP_969337.1| PREDICTED: similar to CG8038-PA [Tribolium cast...    44   0.003
+ref|NP_110852.1| RNAse P protein subunit p29 [Thermoplasma volca...    40   0.029
+ref|XP_665916.1| POP4 (processing of precursor , S. cerevisiae) ...    40   0.029
+ref|XP_784253.2| PREDICTED: hypothetical protein [Strongylocentr...    39   0.064
+ref|XP_001388661.1| hypothetical protein An01g02230 [Aspergillus...    39   0.084
+ref|YP_255274.1| hypothetical protein Saci_0589 [Sulfolobus acid...    39   0.084
+ref|YP_658544.1| Ribonuclease P protein component 1 (RNase P com...    38   0.19 
+ref|XP_626662.1| POP4 like ribonuclease P protein subunit [Crypt...    37   0.32 
+gb|EAT48803.1| ribonuclease P, 29kD-subunit, putative [Aedes aeg...    37   0.41 
+gb|AAT10156.1| RNaseE subunit P29 [uncultured marine group II eu...    37   0.41 
+gb|EAY93010.1| hypothetical protein OsI_014243 [Oryza sativa (in...    36   0.54 
+ref|NP_001017252.1| hypothetical protein LOC550006 [Xenopus trop...    36   0.54 
+ref|NP_001009642.1| processing of precursor 4, ribonuclease P/MR...    36   0.54 
+ref|XP_001010353.2| hypothetical protein TTHERM_01005330 [Tetrah...    35   0.92 
+ref|XP_001149011.1| PREDICTED: similar to ribonuclease P protein...    35   0.92 
+ref|XP_001149162.1| PREDICTED: similar to Pop4 protein isoform 4...    35   0.92 
+ref|XP_512983.2| PREDICTED: POP4 (processing of precursor , S. c...    35   0.92 
+ref|XP_001149225.1| PREDICTED: similar to Pop4 protein isoform 5...    35   0.92 
+gb|AAH74186.1| MGC82042 protein [Xenopus laevis]                       35   0.92 
+gb|AAD00893.2| ribonuclease P protein subunit p29 [Homo sapiens]       35   0.92 
+ref|NP_006618.1| POP4 (processing of precursor , S. cerevisiae) ...    35   0.92 
+ref|XP_001084400.1| PREDICTED: processing of precursor 4, ribonu...    35   1.2  
+sp|Q2KIB9|RPP29_BOVIN Ribonuclease P protein subunit p29 >gi|864...    35   1.2  
+ref|XP_855541.1| PREDICTED: similar to Ribonuclease P protein su...    35   1.2  
+ref|NP_001029942.1| POP4 (processing of precursor , S. cerevisia...    35   1.2  
+sp|Q5R7B0|RP29_PONPY Ribonuclease P protein subunit p29 >gi|5573...    35   1.2  
+ref|XP_701926.2| PREDICTED: hypothetical protein [Danio rerio]         35   1.6  
+ref|NP_001018585.1| processing of precursor 4, ribonuclease P/MR...    35   1.6  
+ref|NP_079666.1| POP4 (processing of precursor , S. cerevisiae) ...    35   1.6  
+ref|XP_001231227.1| PREDICTED: similar to POP4 protein [Gallus g...    34   2.1  
+ref|XP_414118.2| PREDICTED: similar to POP4 protein [Gallus gallus]    34   2.1  
+ref|NP_493083.1| C15C6.4 [Caenorhabditis elegans] >gi|3874314|em...    34   2.1  
+pdb|1PC0|A Chain A, Nmr Structure Of The Archaeal Homologue Of R...    34   2.7  
+ref|XP_001259578.1| ribonuclease P complex subunit Pop4, putativ...    33   3.5  
+gb|EAT78680.1| hypothetical protein SNOG_14055 [Phaeosphaeria no...    33   6.0  
+dbj|BAE60136.1| unnamed protein product [Aspergillus oryzae]           33   6.0  
+ref|XP_766695.1| hypothetical protein TP01_1174 [Theileria parva...    33   6.0  
+ref|XP_001274409.1| ribonuclease P complex subunit Pop4, putativ...    32   7.8  
+
+>pdb|1V76|A Chain A, Crystal Structure Of Archaeal Ribonuclease P Protein
+          Ph1771p From Pyrococcus Horikoshii Ot3
+ pdb|1V76|B Chain B, Crystal Structure Of Archaeal Ribonuclease P Protein
+          Ph1771p From Pyrococcus Horikoshii Ot3
+          Length = 96
+
+ Score =  201 bits (512), Expect = 7e-051
+ Identities = 96/96 (100%), Positives = 96/96 (100%)
+
+Query: 1  GAHRGRVTRRNIIWHELIGLRVRIVGSTHPAFVGIEGYVIDETRNMLVIAGDRIWKVPKD 60
+          GAHRGRVTRRNIIWHELIGLRVRIVGSTHPAFVGIEGYVIDETRNMLVIAGDRIWKVPKD
+Sbjct: 1  GAHRGRVTRRNIIWHELIGLRVRIVGSTHPAFVGIEGYVIDETRNMLVIAGDRIWKVPKD 60
+
+Query: 61 VSIFEFEADDGTKIKIPGERLVGRPEMRLKKRWKKW 96
+          VSIFEFEADDGTKIKIPGERLVGRPEMRLKKRWKKW
+Sbjct: 61 VSIFEFEADDGTKIKIPGERLVGRPEMRLKKRWKKW 96
+
+
+>ref|NP_143607.1| ribonuclease P protein component 1 [Pyrococcus horikoshii OT3]
+ sp|O59425|RNP1_PYRHO Ribonuclease P protein component 1 (RNase P component 1)
+ dbj|BAA30886.1| 127aa long hypothetical protein [Pyrococcus horikoshii OT3]
+          Length = 127
+
+ Score =  199 bits (507), Expect = 3e-050
+ Identities = 95/96 (98%), Positives = 95/96 (98%)
+
+Query: 1   GAHRGRVTRRNIIWHELIGLRVRIVGSTHPAFVGIEGYVIDETRNMLVIAGDRIWKVPKD 60
+           GAHRGRVTRRNIIWHELIGLRVRIVGSTHPAFVGIEGYVIDETRNMLVIAGDRIWKVPKD
+Sbjct: 32  GAHRGRVTRRNIIWHELIGLRVRIVGSTHPAFVGIEGYVIDETRNMLVIAGDRIWKVPKD 91
+
+Query: 61  VSIFEFEADDGTKIKIPGERLVGRPEMRLKKRWKKW 96
+           V IFEFEADDGTKIKIPGERLVGRPEMRLKKRWKKW
+Sbjct: 92  VCIFEFEADDGTKIKIPGERLVGRPEMRLKKRWKKW 127
+
+
+>ref|NP_126024.1| ribonuclease P protein component 1 [Pyrococcus abyssi GE5]
+ sp|Q9V1U4|RNP1_PYRAB Ribonuclease P protein component 1 (RNase P component 1)
+ emb|CAB49255.1| RNAse P protein subunit P29/POP4 [Pyrococcus abyssi GE5]
+          Length = 127
+
+ Score =  180 bits (456), Expect = 2e-044
+ Identities = 80/96 (83%), Positives = 89/96 (92%)
+
+Query: 1   GAHRGRVTRRNIIWHELIGLRVRIVGSTHPAFVGIEGYVIDETRNMLVIAGDRIWKVPKD 60
+           G+HRGRVT+RNIIWHELIGL+VR+V S HP FVGIEGYV+DETRNMLVI GD++WKVPKD
+Sbjct: 32  GSHRGRVTKRNIIWHELIGLKVRVVNSMHPGFVGIEGYVVDETRNMLVIVGDKVWKVPKD 91
+
+Query: 61  VSIFEFEADDGTKIKIPGERLVGRPEMRLKKRWKKW 96
+           V IFEFE +DG KIKIPGERLVGRPEMRLKKRW+KW
+Sbjct: 92  VCIFEFETEDGAKIKIPGERLVGRPEMRLKKRWRKW 127
+
+
+>ref|NP_579545.1| ribonuclease P protein component 1 [Pyrococcus furiosus DSM 3638]
+ sp|Q8U007|RNP1_PYRFU Ribonuclease P protein component 1 (RNase P component 1)
+ gb|AAL81940.1| hypothetical protein [Pyrococcus furiosus DSM 3638]
+          Length = 127
+
+ Score =  166 bits (419), Expect = 5e-040
+ Identities = 77/96 (80%), Positives = 88/96 (91%), Gaps = 1/96 (1%)
+
+Query: 1   GAHRGRVTRRNIIWHELIGLRVRIVGSTHPAFVGIEGYVIDETRNMLVIAGD-RIWKVPK 59
+           GAHRGRV ++NI+WHELIGL+VR+V STHP +VGIEGYVIDETRNMLVIAG+ ++WKVPK
+Sbjct: 32  GAHRGRVNKKNIVWHELIGLKVRVVNSTHPGYVGIEGYVIDETRNMLVIAGENKVWKVPK 91
+
+Query: 60  DVSIFEFEADDGTKIKIPGERLVGRPEMRLKKRWKK 95
+           DV IFEFE  DGTKIKI GE+LVGRPEMRLKKRW+K
+Sbjct: 92  DVCIFEFETWDGTKIKISGEKLVGRPEMRLKKRWRK 127
+
+
+>ref|YP_183946.1| ribonuclease P protein component 1 [Thermococcus kodakarensis KOD1]
+ sp|Q5JDH8|RNP1_PYRKO Ribonuclease P protein component 1 (RNase P component 1)
+ dbj|BAD85722.1| ribonuclease P component, Rpp29 homolog [Thermococcus kodakarensis
+           KOD1]
+          Length = 125
+
+ Score =  138 bits (348), Expect = 8e-032
+ Identities = 63/95 (66%), Positives = 79/95 (83%), Gaps = 1/95 (1%)
+
+Query: 1   GAHRGRVTRRNIIWHELIGLRVRIVGSTHPAFVGIEGYVIDETRNMLVIAGDRIWKVPKD 60
+           GAHRGRVTR+NIIWHELIGL+ +++ ++HP  VGIEGYV+DETRN LV+ GDR+W VPKD
+Sbjct: 32  GAHRGRVTRKNIIWHELIGLKAKVIRASHPELVGIEGYVLDETRNTLVLVGDRVWVVPKD 91
+
+Query: 61  VSIFEFEADDGTKIKIPGERLVGRPEMRLKKRWKK 95
+           V   EF+  +  KI++ G+ LVGRPEMRLKKRW+K
+Sbjct: 92  VVEIEFDLGN-EKIRVNGKDLVGRPEMRLKKRWRK 125
+
+
+>ref|NP_247439.1| hypothetical protein MJ0464 [Methanocaldococcus jannaschii DSM
+          2661]
+ sp|Q57903|RNP1_METJA Ribonuclease P protein component 1 (RNase P component 1)
+ gb|AAB98453.1| conserved hypothetical protein [Methanocaldococcus jannaschii DSM
+          2661]
+          Length = 95
+
+ Score = 84.7 bits (208), Expect = 1e-015
+ Identities = 45/90 (50%), Positives = 63/90 (70%), Gaps = 3/90 (3%)
+
+Query: 7  VTRRNIIWHELIGLRVRIVGSTHPAFVGIEGYVIDETRNMLVIAGD--RIWKVPKDVSIF 64
+          +T  NI+ HELIGL+V IV + + A +GI+G V+DETRN LVI  +  R   +PKD+++F
+Sbjct: 2  ITPHNILRHELIGLKVEIVEAKNKAMIGIKGKVVDETRNTLVIEKEDGREVVIPKDIAVF 61
+
+Query: 65 EFEADDGTKIKIPGERLVGRPEMRLKKRWK 94
+           F+   G K+K+ G  L+GRPE RLKK+ K
+Sbjct: 62 LFQL-KGCKVKVDGRLLIGRPEERLKKKIK 90
+
+
+>pdb|1OQK|A Chain A, Structure Of Mth11: A Homologue Of Human Rnase P Protein
+          Rpp29
+          Length = 97
+
+ Score = 82.4 bits (202), Expect = 7e-015
+ Identities = 45/91 (49%), Positives = 56/91 (61%), Gaps = 2/91 (2%)
+
+Query: 7  VTRRNIIWHELIGLRVRIVGSTHPAFVGIEGYVIDETRNMLVIAGD--RIWKVPKDVSIF 64
+          +T RNI  HELIGL VRI  S H    GI G V+DETRN L I  D  R   VPK +++F
+Sbjct: 6  ITPRNIFRHELIGLSVRIARSVHRDIQGISGRVVDETRNTLRIEMDDGREITVPKGIAVF 65
+
+Query: 65 EFEADDGTKIKIPGERLVGRPEMRLKKRWKK 95
+           F    G  ++I G  LV RPE R+KK+++K
+Sbjct: 66 HFRTPQGELVEIDGRALVARPEERIKKKFRK 96
+
+
+>ref|NP_275156.1| hypothetical protein MTH11 [Methanothermobacter
+          thermautotrophicus str. Delta H]
+ sp|O26119|RNP1_METTH Ribonuclease P protein component 1 (RNase P component 1)
+ gb|AAB84512.1| conserved protein [Methanothermobacter thermautotrophicus str.
+          Delta H]
+          Length = 93
+
+ Score = 82.4 bits (202), Expect = 7e-015
+ Identities = 45/91 (49%), Positives = 56/91 (61%), Gaps = 2/91 (2%)
+
+Query: 7  VTRRNIIWHELIGLRVRIVGSTHPAFVGIEGYVIDETRNMLVIAGD--RIWKVPKDVSIF 64
+          +T RNI  HELIGL VRI  S H    GI G V+DETRN L I  D  R   VPK +++F
+Sbjct: 2  ITPRNIFRHELIGLSVRIARSVHRDIQGISGRVVDETRNTLRIEMDDGREITVPKGIAVF 61
+
+Query: 65 EFEADDGTKIKIPGERLVGRPEMRLKKRWKK 95
+           F    G  ++I G  LV RPE R+KK+++K
+Sbjct: 62 HFRTPQGELVEIDGRALVARPEERIKKKFRK 92
+
+
+>ref|NP_614499.1| RNAse P subunit P29 [Methanopyrus kandleri AV19]
+ sp|Q8TGY6|RNP1_METKA Ribonuclease P protein component 1 (RNase P component 1)
+ gb|AAM02429.1| RNAse P subunit P29 [Methanopyrus kandleri AV19]
+          Length = 107
+
+ Score = 79.0 bits (193), Expect = 7e-014
+ Identities = 40/91 (43%), Positives = 60/91 (65%), Gaps = 5/91 (5%)
+
+Query: 7  VTRRNIIWHELIGLRVRIVGSTHPAFVGIEGYVIDETRNMLVI---AGDRIWKVPKDVSI 63
+          +T RNI+ HELIGL  R+V S  P + G+EG ++DET+N LV+   +G+++  + KD  +
+Sbjct: 3  ITPRNIVRHELIGLECRVVKSLGPPYEGLEGRIVDETKNTLVLKTESGEKV--IVKDQVL 60
+
+Query: 64 FEFEADDGTKIKIPGERLVGRPEMRLKKRWK 94
+           E +   G ++++ G  LVGRPE RL KR K
+Sbjct: 61 LELKLPSGERVRVDGALLVGRPEERLSKRIK 91
+
+
+>ref|ZP_01702799.1| Ribonuclease P, Rpp29 [Methanococcus vannielii SB]
+ sp|P14022|RNP1_METVA Ribonuclease P protein component 1 (RNase P component 1)
+ emb|CAA34688.1| unnamed protein product [Methanococcus vannielii]
+ gb|EAY51284.1| Ribonuclease P, Rpp29 [Methanococcus vannielii SB]
+          Length = 99
+
+ Score = 75.9 bits (185), Expect = 6e-013
+ Identities = 45/92 (48%), Positives = 59/92 (64%), Gaps = 7/92 (7%)
+
+Query: 10 RNIIWHELIGLRVRIVGSTHPAFVGIEGYVIDETRNMLVIA---GDRIWKVPKDVSIFEF 66
+          +NI+ HEL+GL + IV ST    +  +G VI+ETRNMLVI    G  I  VPK++SIF F
+Sbjct: 5  QNILRHELVGLNLEIVNSTDKRLISTKGRVINETRNMLVIEKNNGKEI-TVPKEISIFRF 63
+
+Query: 67 E---ADDGTKIKIPGERLVGRPEMRLKKRWKK 95
+          E    D   K+ I G  L+GRPE RLK++ K+
+Sbjct: 64 EFSDLDTPKKVDIDGRLLIGRPEDRLKRKIKQ 95
+
+
+>ref|YP_447931.1| putative ribonuclease P, component 1 [Methanosphaera stadtmanae
+          DSM 3091]
+ gb|ABC57288.1| putative ribonuclease P, component 1 [Methanosphaera stadtmanae
+          DSM 3091]
+          Length = 93
+
+ Score = 75.5 bits (184), Expect = 8e-013
+ Identities = 37/90 (41%), Positives = 54/90 (60%), Gaps = 1/90 (1%)
+
+Query: 7  VTRRNIIWHELIGLRVRIVGSTHPAFVGIEGYVIDETRNML-VIAGDRIWKVPKDVSIFE 65
+          +T +N+  HE IGL V ++ S H  F+GI+G +IDETRN + V  G     +PK   +F 
+Sbjct: 2  ITPQNVFRHEFIGLNVEVINSKHEKFIGIKGIIIDETRNTIRVDTGKNEKLIPKSDVVFL 61
+
+Query: 66 FEADDGTKIKIPGERLVGRPEMRLKKRWKK 95
+          F    G K+ I G+ +  RPE R+KK++ K
+Sbjct: 62 FTLPQGEKVSIDGKVITARPEDRIKKKFTK 91
+
+
+>ref|YP_303669.1| putative ribonuclease P subunit P29 [Methanosarcina barkeri str.
+           fusaro]
+ gb|AAZ69089.1| putative ribonuclease P subunit P29 [Methanosarcina barkeri str.
+           Fusaro]
+          Length = 110
+
+ Score = 73.9 bits (180), Expect = 2e-012
+ Identities = 42/98 (42%), Positives = 61/98 (62%), Gaps = 13/98 (13%)
+
+Query: 12  IIWHELIGLRVRIVGSTHPAFVGIEGYVIDETRNMLVI--AGDRIWKVPKDVSIFEFEAD 69
+           +I+HELIGL ++++ ST+PA +GI G VIDET+N+L+I  +G R  K+PK  S F F   
+Sbjct: 12  LIYHELIGLEIQVIRSTNPALIGIRGRVIDETKNLLIIENSGPRELKIPKADSEFLFRIP 71
+
+Query: 70  ---------DGTKIKIPGERLVGRPEMRLK--KRWKKW 96
+                      T +KI G  L+ +PE R+K  K+ +KW
+Sbjct: 72  TELSEKGRRSDTFVKIQGNLLLSQPENRIKNIKKLRKW 109
+
+
+>ref|NP_616025.1| hypothetical protein MA1080 [Methanosarcina acetivorans C2A]
+ sp|Q8TRT9|RNP1_METAC Ribonuclease P protein component 1 (RNase P component 1)
+ gb|AAM04505.1| conserved hypothetical protein [Methanosarcina acetivorans C2A]
+          Length = 110
+
+ Score = 71.2 bits (173), Expect = 2e-011
+ Identities = 41/99 (41%), Positives = 60/99 (60%), Gaps = 13/99 (13%)
+
+Query: 11  NIIWHELIGLRVRIVGSTHPAFVGIEGYVIDETRNMLVI--AGDRIWKVPKDVSIFEFEA 68
+           N+I+HELIGL ++++ ST+P+  GI G VI+ET+NMLV+  +  R  K+PK  S F F  
+Sbjct: 11  NLIFHELIGLEIKVINSTNPSLTGIRGRVINETKNMLVVENSQSRELKIPKADSEFLFRI 70
+
+Query: 69  D---------DGTKIKIPGERLVGRPEMRLK--KRWKKW 96
+                       T +KI G  L+ +PE R+K  K+ +KW
+Sbjct: 71  PAELSEKGRRSDTFVKIQGNLLLSQPENRIKNIKKLRKW 109
+
+
+>ref|YP_001046487.1| Ribonuclease P, Rpp29 [Methanoculleus marisnigri JR1]
+ gb|ABN56505.1| Ribonuclease P, Rpp29 [Methanoculleus marisnigri JR1]
+          Length = 90
+
+ Score = 70.9 bits (172), Expect = 2e-011
+ Identities = 37/87 (42%), Positives = 53/87 (60%), Gaps = 1/87 (1%)
+
+Query: 7  VTRRNIIWHELIGLRVRIVGSTHPAFVGIEGYVIDETRNMLVIAGDRIWK-VPKDVSIFE 65
+          ++ +N++ HELIGL V +V +++P   G+ G V DETRN LVI   R  K +PK  S+F 
+Sbjct: 2  ISPQNVLRHELIGLDVLVVRASNPGHAGVSGRVTDETRNTLVILTGRGEKQIPKRFSVFR 61
+
+Query: 66 FEADDGTKIKIPGERLVGRPEMRLKKR 92
+          F   DGT + + G  L  +PE R+  R
+Sbjct: 62 FRLPDGTTVDVDGSSLETQPERRIGMR 88
+
+
+>ref|ZP_01799859.1| Ribonuclease P, Rpp29 [Methanococcus maripaludis C7]
+ gb|EDK17654.1| Ribonuclease P, Rpp29 [Methanococcus maripaludis C7]
+          Length = 98
+
+ Score = 70.1 bits (170), Expect = 3e-011
+ Identities = 41/90 (45%), Positives = 59/90 (65%), Gaps = 4/90 (4%)
+
+Query: 10 RNIIWHELIGLRVRIVGSTHPAFVGIEGYVIDETRNMLVIAGD--RIWKVPKDVSIF--E 65
+          +NI+ HELIGL + +V ST  + +  +G VI+ETRN LV+  +  +   V K++S F  +
+Sbjct: 5  QNILRHELIGLNLEVVKSTDFSLISTKGRVINETRNTLVLEKENGKEITVVKEISTFRIQ 64
+
+Query: 66 FEADDGTKIKIPGERLVGRPEMRLKKRWKK 95
+          FE DD  K+ I G  LVGRPE RLK++ K+
+Sbjct: 65 FEFDDVVKVDIDGRLLVGRPEDRLKRKIKQ 94
+
+
+>ref|YP_001041033.1| Ribonuclease P, Rpp29 [Staphylothermus marinus F1]
+ gb|ABN70125.1| Ribonuclease P, Rpp29 [Staphylothermus marinus F1]
+          Length = 92
+
+ Score = 70.1 bits (170), Expect = 3e-011
+ Identities = 40/88 (45%), Positives = 58/88 (65%), Gaps = 4/88 (4%)
+
+Query: 6  RVTRRNIIWHELIGLRVRIVGSTHPAFVGIEGYVIDETRNMLVI---AGDRIWKVPKDVS 62
+          R TRRNI +HELIGLR++I+     + VG+ G VIDET+  L+I   +G R+ +V K   
+Sbjct: 2  RHTRRNIFYHELIGLRIKIIEYPDKSLVGLTGLVIDETQKTLLIETNSGRRV-RVLKANG 60
+
+Query: 63 IFEFEADDGTKIKIPGERLVGRPEMRLK 90
+          +F+F   +  K+ I G +++GRPE RLK
+Sbjct: 61 VFQFMLPNKEKVIIRGVQILGRPEDRLK 88
+
+
+>ref|ZP_01798673.1| Ribonuclease P, Rpp29 [Methanococcus aeolicus Nankai-3]
+ gb|EDK15668.1| Ribonuclease P, Rpp29 [Methanococcus aeolicus Nankai-3]
+          Length = 96
+
+ Score = 69.7 bits (169), Expect = 4e-011
+ Identities = 38/91 (41%), Positives = 61/91 (67%), Gaps = 4/91 (4%)
+
+Query: 7  VTRRNIIWHELIGLRVRIVGSTHPAFVGIEGYVIDETRNMLVIA---GDRIWKVPKDVSI 63
+          +T  NI+ HELIGL V I  ST+ + VG++G ++ ETRN + I      +   +PKD+++
+Sbjct: 2  ITPYNILRHELIGLDVEITQSTNKSLVGLKGKIVYETRNTINIERFDNSKEVMIPKDIAV 61
+
+Query: 64 FEFEADDGTKIKIPGERLVGRPEMRLKKRWK 94
+          F+F+ ++   I++ GE L+GRPE RLK++ K
+Sbjct: 62 FKFKLNE-EYIEVIGELLMGRPEDRLKRKIK 91
+
+
+>ref|NP_988527.1| hypothetical protein MMP1407 [Methanococcus maripaludis S2]
+ sp|P60832|RNP1_METMP Ribonuclease P protein component 1 (RNase P component 1)
+ emb|CAF30963.1| Protein of unknown function UPF0086 [Methanococcus maripaludis
+          S2]
+          Length = 96
+
+ Score = 68.6 bits (166), Expect = 1e-010
+ Identities = 42/91 (46%), Positives = 59/91 (64%), Gaps = 6/91 (6%)
+
+Query: 10 RNIIWHELIGLRVRIVGSTHPAFVGIEGYVIDETRNMLVIA---GDRIWKVPKDVSIF-- 64
+          +NI+ HELIGL + +V ST    +  +G VI+ETRN LV+    G  I  V K++S F  
+Sbjct: 3  QNILRHELIGLNLEVVKSTDSGLISTKGRVINETRNTLVLEKENGKEITLV-KEISTFRI 61
+
+Query: 65 EFEADDGTKIKIPGERLVGRPEMRLKKRWKK 95
+          +FE+++  KI I G  LVGRPE RLK++ K+
+Sbjct: 62 QFESENVVKIDIDGRLLVGRPEDRLKRKIKQ 92
+
+
+>ref|YP_844126.1| Ribonuclease P, Rpp29 [Methanosaeta thermophila PT]
+ gb|ABK15486.1| Ribonuclease P, Rpp29 [Methanosaeta thermophila PT]
+          Length = 96
+
+ Score = 68.6 bits (166), Expect = 1e-010
+ Identities = 36/83 (43%), Positives = 50/83 (60%), Gaps = 1/83 (1%)
+
+Query: 11 NIIWHELIGLRVRIVGSTHPAFVGIEGYVIDETRNMLVIAGDR-IWKVPKDVSIFEFEAD 69
+          NI  HELIGL V ++ + +    G+ G V+DETRN  VI   R + +VPK  + F F   
+Sbjct: 6  NIARHELIGLTVEVIDTPNRTMAGMRGLVVDETRNTFVIETQRGLRRVPKAHTSFIFTLP 65
+
+Query: 70 DGTKIKIPGERLVGRPEMRLKKR 92
+          DG K++I G  L+ +PE R+ KR
+Sbjct: 66 DGQKVRIAGSVLISQPENRINKR 88
+
+
+>ref|NP_634156.1| Ribonuclease P protein subunit P29 [Methanosarcina mazei Go1]
+ sp|Q8PV42|RNP1_METMA Ribonuclease P protein component 1 (RNase P component 1)
+ gb|AAM31828.1| Ribonuclease P protein subunit P29 [Methanosarcina mazei Go1]
+          Length = 110
+
+ Score = 68.2 bits (165), Expect = 1e-010
+ Identities = 40/98 (40%), Positives = 62/98 (63%), Gaps = 13/98 (13%)
+
+Query: 12  IIWHELIGLRVRIVGSTHPAFVGIEGYVIDETRNMLVI--AGDRIWKVPKDVSIFEFE-- 67
+           +I+HELIGL +++  ST+P+ +GI G VI+ET+NMLV+  +  R  K+PK  S F F   
+Sbjct: 12  LIFHELIGLEIKVSNSTNPSLIGIRGRVINETKNMLVVENSESRELKIPKADSEFVFRIP 71
+
+Query: 68  ---ADDGTK----IKIPGERLVGRPEMRLK--KRWKKW 96
+              ++ G +    +KI G  L+ +PE R+K  K+ +KW
+Sbjct: 72  AELSEKGRRSDIFVKIQGNLLLSQPENRIKNIKKLRKW 109
+
+
+>ref|YP_919897.1| Ribonuclease P, Rpp29 [Thermofilum pendens Hrk 5]
+ gb|ABL77894.1| Ribonuclease P, Rpp29 [Thermofilum pendens Hrk 5]
+          Length = 94
+
+ Score = 66.6 bits (161), Expect = 4e-010
+ Identities = 37/93 (39%), Positives = 55/93 (59%), Gaps = 2/93 (2%)
+
+Query: 6  RVTRRNIIWHELIGLRVRIVGSTHPAFVGIEGYVIDETRNMLVIA--GDRIWKVPKDVSI 63
+          ++T +NI+ HELIGL   +V S +P+ VGI G ++DET   +VI   G    ++ K   +
+Sbjct: 2  KITPKNILRHELIGLEACVVKSKNPSQVGICGLILDETYKTIVIGVPGGPKKRIFKAQVV 61
+
+Query: 64 FEFEADDGTKIKIPGERLVGRPEMRLKKRWKKW 96
+             +  DG ++ + G  LVGRPE RLK+R   W
+Sbjct: 62 LRIKLPDGKELLVDGAFLVGRPEERLKRRVMLW 94
+
+
+>sp|P22527|RNP1_HALMA Ribonuclease P protein component 1 (RNase P component 1)
+ emb|CAA39016.1| unnamed protein product [Haloarcula marismortui]
+          Length = 94
+
+ Score = 66.2 bits (160), Expect = 5e-010
+ Identities = 33/75 (44%), Positives = 47/75 (62%), Gaps = 2/75 (2%)
+
+Query: 15 HELIGLRVRIVGSTHPAFVGIEGYVIDETRNMLVIAG-DRIWKVPKDVSIFEFEADDGTK 73
+          HEL+GL   +V +++P  +GI G V+ ET  ML + G DR+W VPKD + F F+    T 
+Sbjct: 11 HELVGLDCEVVAASNPDVIGISGTVVMETTQMLTLEGADRVWHVPKDSATFAFDLSTET- 69
+
+Query: 74 IKIPGERLVGRPEMR 88
+          + + G+RLV RP  R
+Sbjct: 70 VLVDGDRLVARPARR 84
+
+
+>emb|CAJ37613.1| putative RNase P, component 1 [uncultured methanogenic archaeon
+          RC-I]
+          Length = 90
+
+ Score = 64.3 bits (155), Expect = 2e-009
+ Identities = 37/86 (43%), Positives = 53/86 (61%), Gaps = 5/86 (5%)
+
+Query: 11 NIIWHELIGLRVRIVGSTHPAFVGIEGYVIDETRNMLVI-AGDRIWKVPKDVSIFEFEAD 69
+          NII+HELIGL+V +     P +V + G V+DETRNM++I  G R  KVPK    F F   
+Sbjct: 7  NIIYHELIGLKVEV---ETPPYV-LTGKVVDETRNMIIINTGKRDAKVPKSCCTFVFTLP 62
+
+Query: 70 DGTKIKIPGERLVGRPEMRLKKRWKK 95
+          D  ++++ G  L  +PE R+ K+ +K
+Sbjct: 63 DSRRVRVLGTLLQSQPENRIPKKRRK 88
+
+
+>ref|YP_001096703.1| Ribonuclease P, Rpp29 [Methanococcus maripaludis C5]
+ gb|ABO34488.1| Ribonuclease P, Rpp29 [Methanococcus maripaludis C5]
+          Length = 99
+
+ Score = 63.9 bits (154), Expect = 2e-009
+ Identities = 38/91 (41%), Positives = 56/91 (61%), Gaps = 5/91 (5%)
+
+Query: 10 RNIIWHELIGLRVRIVGSTHPAFVGIEGYVIDETRNMLVIAGD--RIWKVPKDVSIFEFE 67
+          +NI+ HELIGL + +V ST    +  +G VI+ETRN LV+  +  +   V K++S F  +
+Sbjct: 5  QNILRHELIGLDLEVVKSTDSGLISTKGRVINETRNTLVLEKENGKEITVVKEISTFRID 64
+
+Query: 68 ---ADDGTKIKIPGERLVGRPEMRLKKRWKK 95
+             + D  K+ I G  LVGRPE RLK++ K+
+Sbjct: 65 FKNSGDVVKVDIDGRLLVGRPEDRLKRKIKQ 95
+
+
+>ref|YP_331160.1| ribonuclease P protein component 1 [Natronomonas pharaonis DSM
+          2160]
+ emb|CAI50526.1| ribonuclease P protein component 1 [Natronomonas pharaonis DSM
+          2160]
+          Length = 98
+
+ Score = 63.9 bits (154), Expect = 2e-009
+ Identities = 35/87 (40%), Positives = 51/87 (58%), Gaps = 6/87 (6%)
+
+Query: 12 IIWHELIGLRVRIVGSTHPAFVGIEGYVIDET-RNMLVIAGDRIWKVPKDVSIFEFEADD 70
+          ++ HEL+GL V +  + +P  VGI G V DET R +LV  GD + +VPK  + F FE D+
+Sbjct: 6  LVRHELVGLDVEVTDAPNPDLVGIAGRVHDETMRTLLVATGDGVKQVPKAETTFRFELDE 65
+
+Query: 71 -----GTKIKIPGERLVGRPEMRLKKR 92
+                  + + GERLV RP +R + +
+Sbjct: 66 AADNGSVAVVVEGERLVARPALRTETK 92
+
+
+>ref|YP_564783.1| Ribonuclease P subunit [Methanococcoides burtonii DSM 6242]
+ gb|ABE51033.1| Ribonuclease P subunit [Methanococcoides burtonii DSM 6242]
+          Length = 101
+
+ Score = 63.5 bits (153), Expect = 3e-009
+ Identities = 38/87 (43%), Positives = 53/87 (60%), Gaps = 7/87 (8%)
+
+Query: 11 NIIWHELIGLRVRIVGSTHPAFVGIEGYVIDETRNMLVIAGDRIWK--VPKDVSIFEF-- 66
+          N+I+HELIGL   +  ST+P  + I G VIDETRNML+I  +   +  VPK+ + F F  
+Sbjct: 7  NLIFHELIGLYAEVFESTNPKLINICGRVIDETRNMLIIETEDTHEKMVPKNGTTFVFHL 66
+
+Query: 67 ---EADDGTKIKIPGERLVGRPEMRLK 90
+              AD   ++KI G  L+ +PE R+K
+Sbjct: 67 PSSSADHDQRVKIFGTLLLSQPENRVK 93
+
+
+>ref|YP_001013483.1| ribonuclease P protein component 1 [Hyperthermus butylicus DSM
+          5456]
+ gb|ABM81138.1| ribonuclease P protein component 1 [Hyperthermus butylicus DSM
+          5456]
+          Length = 111
+
+ Score = 61.6 bits (148), Expect = 1e-008
+ Identities = 34/87 (39%), Positives = 54/87 (62%), Gaps = 4/87 (4%)
+
+Query: 8  TRRNIIWHELIGLRVRIVGSTHPAFVGIEGYVIDETRNMLVIA---GDRIWKVPKDVSIF 64
+          T  NI++H LIGLR R++ ++ P   G+EG V++ETR+ LV+    G R+ +V K  SIF
+Sbjct: 4  TAWNIVFHSLIGLRARVLATSDPGLRGLEGVVVEETRHSLVVETRDGRRV-RVLKANSIF 62
+
+Query: 65 EFEADDGTKIKIPGERLVGRPEMRLKK 91
+           F+   G+ + + GE + G    R+K+
+Sbjct: 63 LFQLPGGSWVVVRGEEIAGSLAERVKR 89
+
+
+>ref|NP_147179.1| ribonuclease P protein component 1 [Aeropyrum pernix K1]
+ sp|Q9YF79|RNP1_AERPE Ribonuclease P protein component 1 (RNase P component 1)
+ dbj|BAA79317.1| ribonuclease P protein component 1 [Aeropyrum pernix K1]
+          Length = 110
+
+ Score = 58.2 bits (139), Expect = 1e-007
+ Identities = 33/89 (37%), Positives = 57/89 (64%), Gaps = 3/89 (3%)
+
+Query: 9  RRNIIWHELIGLRVRIVGSTHPAFVGIEGYVI-DETRNMLVIAGD-RIWKVPKDVSIFEF 66
+          RR +I   L GLRV+++  + P+  G+EG+V+ +E R++ ++  + R+  V KD+++ E 
+Sbjct: 9  RRQLIPPLLTGLRVKVLAHSDPSLEGLEGWVVVEEARSLRILTLEGRVSTVLKDLAVIEV 68
+
+Query: 67 EADDGTKIKIPGERLVGRPEMRLKK-RWK 94
+          EA  G  I+I G  L+G P  R+K+ RW+
+Sbjct: 69 EAPGGEYIRISGRVLIGNPLDRVKEYRWR 97
+
+
+>ref|YP_503669.1| Ribonuclease P subunit [Methanospirillum hungatei JF-1]
+ gb|ABD41950.1| Ribonuclease P subunit [Methanospirillum hungatei JF-1]
+          Length = 91
+
+ Score = 56.2 bits (134), Expect = 5e-007
+ Identities = 33/90 (36%), Positives = 49/90 (54%), Gaps = 1/90 (1%)
+
+Query: 7  VTRRNIIWHELIGLRVRIVGSTHPAFVGIEGYVIDETRNMLVI-AGDRIWKVPKDVSIFE 65
+          +T +NI+ HEL GL VR+  + +    GI G V+ ETR+M+ +  G  + KV K   IF 
+Sbjct: 2  ITPQNILRHELTGLDVRVEQAQNQYLNGISGLVVRETRHMVFVKTGTGVKKVAKKGVIFR 61
+
+Query: 66 FEADDGTKIKIPGERLVGRPEMRLKKRWKK 95
+          F    G ++ + G  L   PE R+  R K+
+Sbjct: 62 FTLPSGKRVDVTGAVLDMAPEKRINMRIKR 91
+
+
+>gb|AAA86867.1| ribosomal protein
+          Length = 67
+
+ Score = 55.5 bits (132), Expect = 9e-007
+ Identities = 25/54 (46%), Positives = 36/54 (66%), Gaps = 1/54 (1%)
+
+Query: 15 HELIGLRVRIVGSTHPAFVGIEGYVIDETRNMLVIAG-DRIWKVPKDVSIFEFE 67
+          HEL+GL   +V +++P  +GI G V+ ET  ML + G DR+W VPKD + F F+
+Sbjct: 11 HELVGLDCEVVAASNPDVIGISGTVVMETTQMLTLEGADRVWHVPKDSATFAFD 64
+
+
+>gb|AAU84021.1| hypothetical protein GZ35D7_6 [uncultured archaeon GZfos35D7]
+          Length = 156
+
+ Score = 52.4 bits (124), Expect = 7e-006
+ Identities = 24/44 (54%), Positives = 32/44 (72%)
+
+Query: 7  VTRRNIIWHELIGLRVRIVGSTHPAFVGIEGYVIDETRNMLVIA 50
+          +T  N+++H LIGL   + GST+P  VGI G VIDET+N LVI+
+Sbjct: 9  ITPENLVYHTLIGLEAVVSGSTNPDMVGIAGAVIDETKNTLVIS 52
+
+
+>sp|P60834|RNP1_SULTO Ribonuclease P protein component 1 (RNase P component 1)
+          Length = 77
+
+ Score = 51.2 bits (121), Expect = 2e-005
+ Identities = 27/79 (34%), Positives = 51/79 (64%), Gaps = 6/79 (7%)
+
+Query: 16 ELIGLRVRIVGSTHPAFVGIEGYVIDET-RNMLVIAGDRIWKVPKDVSIFEFEADDGTKI 74
+          +LIG +++++G + P+ +G EG ++ ET +  L+   ++I +V K   IFE  +++  K+
+Sbjct: 3  DLIGSKIKVLGHSDPSLIGREGIILFETKKTFLIQTQNKIIRVLKSNGIFEIYSEN-RKV 61
+
+Query: 75 KIPGERLVGRPEMRLKKRW 93
+           +PG +LVG    R++KRW
+Sbjct: 62 ILPGSKLVG----RIEKRW 76
+
+
+>ref|ZP_01709067.1| hypothetical protein Faci_03001135 [Ferroplasma acidarmanus fer1]
+          Length = 100
+
+ Score = 51.2 bits (121), Expect = 2e-005
+ Identities = 29/80 (36%), Positives = 47/80 (58%), Gaps = 1/80 (1%)
+
+Query: 16 ELIGLRVRIVGSTHPAFVGIEGYVIDETRNMLVI-AGDRIWKVPKDVSIFEFEADDGTKI 74
+          E IG  + +  S +   VGI+G +IDET+NM+ I  G +I  + K  +IF  E ++G   
+Sbjct: 10 EFIGKNITVKNSHNIKNVGIKGKLIDETKNMMYIWNGSKICSIQKSGTIFGIEFNEGAHY 69
+
+Query: 75 KIPGERLVGRPEMRLKKRWK 94
+           I G+ ++ +PE R K++ K
+Sbjct: 70 DINGDAILIKPEDRTKEKRK 89
+
+
+>ref|YP_001190200.1| Ribonuclease P, Rpp29 [Metallosphaera sedula DSM 5348]
+ gb|ABP94276.1| Ribonuclease P, Rpp29 [Metallosphaera sedula DSM 5348]
+          Length = 84
+
+ Score = 50.8 bits (120), Expect = 2e-005
+ Identities = 31/83 (37%), Positives = 49/83 (59%), Gaps = 2/83 (2%)
+
+Query: 9  RRNIIWHELIGLRVRIVGSTHPAFVGIEGYVIDET-RNMLVIAGDRIWKVPKDVSIFEFE 67
+          +   + ++LIG RVRI+  + P+ VG EG +I ET +  LV AGD  + V K   I+E +
+Sbjct: 3  KNRFLEYDLIGKRVRILTHSDPSLVGREGIIILETEKTFLVKAGDNAFSVYKPNGIYEID 62
+
+Query: 68 ADDGTKIKIPGERLVGRPEMRLK 90
+               ++ I G+ L+G+P  RL+
+Sbjct: 63 F-KRRRLTICGDALIGKPIKRLR 84
+
+
+>gb|ABK77498.1| RNase P/RNase MRP subunit p29 [Cenarchaeum symbiosum]
+          Length = 80
+
+ Score = 50.4 bits (119), Expect = 3e-005
+ Identities = 35/87 (40%), Positives = 47/87 (54%), Gaps = 10/87 (11%)
+
+Query: 7  VTRRNIIWHELIGLRVRIVGSTHPAFVGIEGYVIDETRNMLVI--AGDRIWKVPKDVSIF 64
+          +T+ NI  HEL+GL     G         EG VIDET+NM+++  A  RI  +PK   ++
+Sbjct: 2  ITQENIRLHELVGLAASASGYIR------EGMVIDETKNMILLDTAAGRI-MLPKAGRLW 54
+
+Query: 65 EFEADDGTKIKIPGERLVGRPEMRLKK 91
+           F A   T   + GE L GRP  RLK+
+Sbjct: 55 RF-ASGRTSCTVQGESLAGRPHERLKR 80
+
+
+>ref|NP_280464.1| hypothetical protein VNG1699C [Halobacterium sp. NRC-1]
+ sp|O24785|RNP1_HALSA Ribonuclease P protein component 1 (RNase P component 1)
+ dbj|BAA22278.1| unnamed protein product [Halobacterium salinarum]
+ gb|AAG19944.1| conserved hypothetical protein [Halobacterium sp. NRC-1]
+          Length = 123
+
+ Score = 46.6 bits (109), Expect = 4e-004
+ Identities = 34/110 (30%), Positives = 48/110 (43%), Gaps = 28/110 (25%)
+
+Query: 7   VTRRNIIWHELIGLRVRIVGSTHPAFVGIEGYVIDETRNMLVI-AGDRIWKVPKDVSIFE 65
+           +T  ++  HEL+GL  R+   T  + VGI G V+DET   +V+     + +VPK  + FE
+Sbjct: 4   ITPESLPRHELLGLHARVAADTDQSRVGIAGRVVDETMQTVVLRTASGVAQVPKKGATFE 63
+
+Query: 66  FEADD---------GTKIK------------------IPGERLVGRPEMR 88
+           F   D         GT  K                  + G RL+ RPE R
+Sbjct: 64  FRLTDEAAAPDNGVGTAFKPAGGETRQTTGESVAYVTVDGGRLLSRPERR 113
+
+
+>ref|NP_070742.1| hypothetical protein AF1917 [Archaeoglobus fulgidus DSM 4304]
+ sp|O28362|RNP1_ARCFU Ribonuclease P protein component 1 (RNase P component 1) (aRpp29)
+ pdb|1TSF|A Chain A, Crystal Structure Of The Archaeal Homolog Of Human Rnase
+          P Protein Rpp29 From Archaeoglobus Fulgidus
+ gb|AAB89336.1| conserved hypothetical protein [Archaeoglobus fulgidus DSM 4304]
+          Length = 102
+
+ Score = 45.1 bits (105), Expect = 0.001
+ Identities = 31/88 (35%), Positives = 48/88 (54%)
+
+Query: 4  RGRVTRRNIIWHELIGLRVRIVGSTHPAFVGIEGYVIDETRNMLVIAGDRIWKVPKDVSI 63
+          RGR+    +I  + IGL V +V S + + VGI+G V+DET+N L I  ++  KV      
+Sbjct: 2  RGRLQGVELIARDWIGLMVEVVESPNHSEVGIKGEVVDETQNTLKIMTEKGLKVVAKRGR 61
+
+Query: 64 FEFEADDGTKIKIPGERLVGRPEMRLKK 91
+                 G  ++I G+ +  RPE R+K+
+Sbjct: 62 TFRVWYKGKIMRIKGDLINFRPEDRIKR 89
+
+
+>ref|XP_001123127.1| PREDICTED: similar to CG8038-PA [Apis mellifera]
+          Length = 181
+
+ Score = 44.3 bits (103), Expect = 0.002
+ Identities = 27/78 (34%), Positives = 43/78 (55%), Gaps = 3/78 (3%)
+
+Query: 19  GLRVRIVGSTHPAFVGIEGYVIDETRNMLVIAG--DRIWKVPKDVSIFEFEADDGTKIKI 76
+           G  + IVGS  P+ +G++G +I +T+N   I G  + I  +PKDV I      +  K++ 
+Sbjct: 102 GAEISIVGSKCPSLIGLKGIIIQDTKNTFKICGTDNIIRTIPKDVIIMNIYLKE-VKLEF 160
+
+Query: 77  PGERLVGRPEMRLKKRWK 94
+            G+ L  RP  R  K++K
+Sbjct: 161 FGKDLSIRPTERTIKKFK 178
+
+
+>pdb|1TS9|A Chain A, Crystal Structure Of The Archaeal Homolog Of Human Rnase
+          P Protein Rpp29 From Archaeoglobus Fulgidus
+          Length = 102
+
+ Score = 44.3 bits (103), Expect = 0.002
+ Identities = 31/88 (35%), Positives = 47/88 (53%)
+
+Query: 4  RGRVTRRNIIWHELIGLRVRIVGSTHPAFVGIEGYVIDETRNMLVIAGDRIWKVPKDVSI 63
+          RGR+    +I  + IGL V +V S + + VGI+G V+DET+N L I  ++  KV      
+Sbjct: 2  RGRLQGVELIARDWIGLXVEVVESPNHSEVGIKGEVVDETQNTLKIXTEKGLKVVAKRGR 61
+
+Query: 64 FEFEADDGTKIKIPGERLVGRPEMRLKK 91
+                 G   +I G+ +  RPE R+K+
+Sbjct: 62 TFRVWYKGKIXRIKGDLINFRPEDRIKR 89
+
+
+>ref|XP_969337.1| PREDICTED: similar to CG8038-PA [Tribolium castaneum]
+          Length = 221
+
+ Score = 43.9 bits (102), Expect = 0.003
+ Identities = 26/81 (32%), Positives = 45/81 (55%), Gaps = 3/81 (3%)
+
+Query: 16  ELIGLRVRIVGSTHPAFVGIEGYVIDETRN--MLVIAGDRIWKVPKDVSIFEFEADDGTK 73
+           ELIG  +++  S  P+ VG+ G V+ ET+    +V    ++  +PK+ S+FEF   D  K
+Sbjct: 135 ELIGSEIKVARSKCPSHVGLTGTVVLETKMTFQIVTQQSQLKIIPKNTSVFEFVL-DAMK 193
+
+Query: 74  IKIPGERLVGRPEMRLKKRWK 94
+             + G+ ++ +P  R  K+ K
+Sbjct: 194 FTVFGKHIMTKPSERSVKKIK 214
+
+
+>ref|NP_110852.1| RNAse P protein subunit p29 [Thermoplasma volcanium GSS1]
+ sp|Q97BW8|RNP1_THEVO Ribonuclease P protein component 1 (RNase P component 1)
+ dbj|BAB59479.1| hypothetical protein [Thermoplasma volcanium GSS1]
+          Length = 89
+
+ Score = 40.4 bits (93), Expect = 0.029
+ Identities = 29/77 (37%), Positives = 40/77 (51%), Gaps = 5/77 (6%)
+
+Query: 16 ELIGLRVRIVGSTHPAFVGIEGYVIDETRNMLVIA-GDRIWKVPKDVSIFEFEADDGTKI 74
+          E IG  V ++ S++   VGI G V  ET+N   I  G     VPK+  IF F+     K 
+Sbjct: 6  EFIGRHVEVIQSSNRYDVGISGQVSFETKNTFEITKGTGKVIVPKEGRIFTFDG----KF 61
+
+Query: 75 KIPGERLVGRPEMRLKK 91
+          K+ G  +  RPE RL++
+Sbjct: 62 KVDGSLINYRPEDRLRE 78
+
+
+>ref|XP_665916.1| POP4 (processing of precursor , S. cerevisiae) [Cryptosporidium
+           hominis TU502]
+ gb|EAL35684.1| POP4 (processing of precursor , S. cerevisiae) [Cryptosporidium
+           hominis]
+          Length = 270
+
+ Score = 40.4 bits (93), Expect = 0.029
+ Identities = 24/87 (27%), Positives = 45/87 (51%), Gaps = 2/87 (2%)
+
+Query: 10  RNIIWHELIGLRVRIVGSTHPAFVGIEGYVIDETRNMLVI--AGDRIWKVPKDVSIFEFE 67
+           +N+   +L G  + ++ S + + V I+G V+ ET+   VI  A D++  + K  SIF   
+Sbjct: 175 QNLSQADLHGSMISVISSRNKSCVNIQGIVVKETKETFVIISADDKVRTILKGQSIFGIV 234
+
+Query: 68  ADDGTKIKIPGERLVGRPEMRLKKRWK 94
+             +   + I G +L   P  R+K +++
+Sbjct: 235 ISNNYLVTIYGSQLCYHPYERIKHKFR 261
+
+
+>ref|XP_784253.2| PREDICTED: hypothetical protein [Strongylocentrotus purpuratus]
+ ref|XP_001189296.1| PREDICTED: hypothetical protein [Strongylocentrotus purpuratus]
+          Length = 279
+
+ Score = 39.3 bits (90), Expect = 0.064
+ Identities = 25/80 (31%), Positives = 40/80 (50%), Gaps = 3/80 (3%)
+
+Query: 17  LIGLRVRIVGSTHPAFVGIEGYVIDETRN--MLVIAGDRIWKVPKDVSIFEFEADDGTKI 74
+           L+   + +  S  PA+VGI G ++ ETRN   ++   +++  +PK    F F  D    I
+Sbjct: 194 LLSKTLTVTRSKCPAYVGISGILLQETRNTFKVITKENKMKTIPKSQCWFMFTVDQ-YAI 252
+
+Query: 75  KIPGERLVGRPEMRLKKRWK 94
+            I G+    R  MR  K++K
+Sbjct: 253 TIYGQHFCQRSSMRAAKKFK 272
+
+
+>ref|XP_001388661.1| hypothetical protein An01g02230 [Aspergillus niger]
+ emb|CAK43593.1| unnamed protein product [Aspergillus niger]
+          Length = 242
+
+ Score = 38.9 bits (89), Expect = 0.084
+ Identities = 23/68 (33%), Positives = 35/68 (51%), Gaps = 7/68 (10%)
+
+Query: 19  GLRVRIVGSTHPAFVGIEGYVIDETRNMLVIA--GDRIWKVPKDVSIFEF-----EADDG 71
+           G  V +V S     VG++G V+ +T+   V+   GD +  +PK+ +IF F     EADD 
+Sbjct: 136 GAEVEVVRSRCEGRVGVKGIVVRDTKFTFVVVTRGDEVKTIPKEQTIFRFSVPLPEADDA 195
+
+Query: 72  TKIKIPGE 79
+               + GE
+Sbjct: 196 DGAAVTGE 203
+
+
+>ref|YP_255274.1| hypothetical protein Saci_0589 [Sulfolobus acidocaldarius DSM
+          639]
+ gb|AAY79981.1| conserved protein [Sulfolobus acidocaldarius DSM 639]
+          Length = 69
+
+ Score = 38.9 bits (89), Expect = 0.084
+ Identities = 23/62 (37%), Positives = 34/62 (54%), Gaps = 2/62 (3%)
+
+Query: 28 THPAFVGIEGYVIDETRNMLVI-AGDRIWKVPKDVSIFEFEADDGTKIKIPGERLVGRPE 86
+          T P  VG EG VI++T N  +I +  R   V K   +F+  +  G    +PG +L+G+PE
+Sbjct: 4  TDPTLVGKEGLVIEDTENAFMIGSNSRKILVIKQNGLFQI-STKGKIFVVPGTKLIGKPE 62
+
+Query: 87 MR 88
+           R
+Sbjct: 63 KR 64
+
+
+>ref|YP_658544.1| Ribonuclease P protein component 1 (RNase P component 1)
+          [Haloquadratum walsbyi DSM 16790]
+ emb|CAJ52941.1| Ribonuclease P protein component 1 (RNase P component 1)
+          [Haloquadratum walsbyi DSM 16790]
+          Length = 228
+
+ Score = 37.7 bits (86), Expect = 0.19
+ Identities = 18/43 (41%), Positives = 25/43 (58%)
+
+Query: 7  VTRRNIIWHELIGLRVRIVGSTHPAFVGIEGYVIDETRNMLVI 49
+          +T   +  HELIGL V +  + +P  +GI G V+DET   L I
+Sbjct: 3  LTPETLTRHELIGLYVAVADAANPDLIGISGRVVDETMQTLHI 45
+
+
+>ref|XP_626662.1| POP4 like ribonuclease P protein subunit [Cryptosporidium parvum
+           Iowa II]
+ gb|EAK89186.1| POP4 like ribonuclease P protein subunit [Cryptosporidium parvum
+           Iowa II]
+          Length = 270
+
+ Score = 37.0 bits (84), Expect = 0.32
+ Identities = 22/87 (25%), Positives = 45/87 (51%), Gaps = 2/87 (2%)
+
+Query: 10  RNIIWHELIGLRVRIVGSTHPAFVGIEGYVIDETRNMLVI--AGDRIWKVPKDVSIFEFE 67
+           +N+   +L G  + ++ S + + V ++G V+ ET+   VI  A +++  + K  SIF   
+Sbjct: 175 QNLSQADLHGSMISVISSRNISCVNVQGIVVKETKETFVIISADNKVRTILKSQSIFGIV 234
+
+Query: 68  ADDGTKIKIPGERLVGRPEMRLKKRWK 94
+             +   + I G +L   P  R+K +++
+Sbjct: 235 ISNNYLVTIYGSQLCYHPCERIKHKFR 261
+
+
+>gb|EAT48803.1| ribonuclease P, 29kD-subunit, putative [Aedes aegypti]
+          Length = 206
+
+ Score = 36.6 bits (83), Expect = 0.41
+ Identities = 24/78 (30%), Positives = 43/78 (55%), Gaps = 3/78 (3%)
+
+Query: 19  GLRVRIVGSTHPAFVGIEGYVIDETRN--MLVIAGDRIWKVPKDVSIFEFEADDGTKIKI 76
+           G ++ +V + +P+ VGI G VI ET+    +V   +++  +PK  S+F    ++   + I
+Sbjct: 122 GAKISVVRTKNPSLVGIRGIVILETKGTFKVVSKDNKVRTIPKMDSVFVIHWNN-VDVTI 180
+
+Query: 77  PGERLVGRPEMRLKKRWK 94
+            G++L  RP  R  K+ K
+Sbjct: 181 FGKQLNSRPAERSVKKVK 198
+
+
+>gb|AAT10156.1| RNaseE subunit P29 [uncultured marine group II euryarchaeote
+          DeepAnt-JyKC7]
+          Length = 85
+
+ Score = 36.6 bits (83), Expect = 0.41
+ Identities = 21/78 (26%), Positives = 42/78 (53%), Gaps = 8/78 (10%)
+
+Query: 21 RVRIVGSTHPAFVGIEGYVIDETRNML---VIAGDRIWKVPKDVSIFEFEADDGTKIKIP 77
+          ++ ++ S+ P  VG+ G +++ETR  L    ++G+    + KDV  F     D  ++ I 
+Sbjct: 12 QIEVIESSDPTLVGVSGMIVEETRRTLRVRTMSGE--VTLAKDVITFTI---DPEQLAID 66
+
+Query: 78 GERLVGRPEMRLKKRWKK 95
+          G  +  RP  R+ +R+++
+Sbjct: 67 GSTVKQRPADRINRRYRR 84
+
+
+>gb|EAY93010.1| hypothetical protein OsI_014243 [Oryza sativa (indica
+           cultivar-group)]
+          Length = 954
+
+ Score = 36.2 bits (82), Expect = 0.54
+ Identities = 24/91 (26%), Positives = 43/91 (47%), Gaps = 10/91 (10%)
+
+Query: 3   HRGRVTRRNIIWHELIGLR-VRIVGSTHP--------AFVG-IEGYVIDETRNMLVIAGD 52
+           ++GR+  RN  W  L  LR +R++  THP         F   ++  ++D ++N+++    
+Sbjct: 399 NKGRIWSRNFAWRRLKNLRKLRVIEPTHPWGNKGEIDEFADMLKLEILDLSKNIMIQVLP 458
+
+Query: 53  RIWKVPKDVSIFEFEADDGTKIKIPGERLVG 83
+               +P  +  F F + +G K KI    L G
+Sbjct: 459 SYVGLPPSLESFSFASREGNKAKISSISLAG 489
+
+
+>ref|NP_001017252.1| hypothetical protein LOC550006 [Xenopus tropicalis]
+          Length = 219
+
+ Score = 36.2 bits (82), Expect = 0.54
+ Identities = 23/91 (25%), Positives = 47/91 (51%), Gaps = 3/91 (3%)
+
+Query: 6   RVTRRNIIWHELIGLRVRIVGSTHPAFVGIEGYVIDETRNM--LVIAGDRIWKVPKDVSI 63
+           ++ +  ++  +L G  + +  S  P++VG++G ++ ET+++   +   D++  VPK   +
+Sbjct: 123 QMIQNKLLKADLHGALLTVAKSKCPSYVGLQGIILQETKHVFKFITKDDKLKTVPKLNCV 182
+
+Query: 64  FEFEADDGTKIKIPGERLVGRPEMRLKKRWK 94
+           F  E  DG    I G +   R   R  K++K
+Sbjct: 183 FSVEI-DGFISYIYGSKFQMRSSERSAKKFK 212
+
+
+>ref|NP_001009642.1| processing of precursor 4, ribonuclease P/MRP family [Rattus
+           norvegicus]
+ sp|Q5M882|RP29_RAT Ribonuclease P protein subunit p29
+ gb|AAH88183.1| Processing of precursor 4, ribonuclease P/MRP family, (S.
+           cerevisiae) [Rattus norvegicus]
+          Length = 221
+
+ Score = 36.2 bits (82), Expect = 0.54
+ Identities = 22/81 (27%), Positives = 41/81 (50%), Gaps = 3/81 (3%)
+
+Query: 16  ELIGLRVRIVGSTHPAFVGIEGYVIDETRNM--LVIAGDRIWKVPKDVSIFEFEADDGTK 73
+           +L G  + +  S  P++VG+ G ++ ET+++  ++   D +  +PK   +F  E DD   
+Sbjct: 135 DLHGAVISVTKSKCPSYVGVTGILLQETKHVFKIITKEDHLKVIPKQNCVFTIEIDDFIS 194
+
+Query: 74  IKIPGERLVGRPEMRLKKRWK 94
+             I G +   R   R  K++K
+Sbjct: 195 Y-IYGSKFQLRASERSAKKFK 214
+
+
+>ref|XP_001010353.2| hypothetical protein TTHERM_01005330 [Tetrahymena thermophila
+           SB210]
+ gb|EAR90108.2| hypothetical protein TTHERM_01005330 [Tetrahymena thermophila
+           SB210]
+          Length = 289
+
+ Score = 35.4 bits (80), Expect = 0.92
+ Identities = 24/81 (29%), Positives = 43/81 (53%), Gaps = 2/81 (2%)
+
+Query: 16  ELIGLRVRIVGSTHPAFVGIEGYVIDETRNM--LVIAGDRIWKVPKDVSIFEFEADDGTK 73
+           +L G  ++I+ S   ++ G++G V+ E      ++   D+I  V K  S+F FE      
+Sbjct: 197 DLHGSIIQILTSKCQSYEGMQGIVLQEKLKSFRVITQEDKIITVIKQNSVFLFEVYPQRI 256
+
+Query: 74  IKIPGERLVGRPEMRLKKRWK 94
+            K+ G  L+ RP  R+K+++K
+Sbjct: 257 FKVYGCHLMIRPSDRIKQKFK 277
+
+
+>ref|XP_001149011.1| PREDICTED: similar to ribonuclease P protein subunit p29 isoform 2
+           [Pan troglodytes]
+ ref|XP_001149087.1| PREDICTED: similar to ribonuclease P protein subunit p29 isoform 3
+           [Pan troglodytes]
+          Length = 179
+
+ Score = 35.4 bits (80), Expect = 0.92
+ Identities = 24/81 (29%), Positives = 42/81 (51%), Gaps = 3/81 (3%)
+
+Query: 16  ELIGLRVRIVGSTHPAFVGIEGYVIDETRNM--LVIAGDRIWKVPKDVSIFEFEADDGTK 73
+           +L G  + +  S  P++VGI G ++ ET+++  ++   DR+  +PK   +F  E  DG  
+Sbjct: 93  DLHGAIISVTKSKCPSYVGITGILLQETKHIFKIITKEDRLKVIPKLNCVFTVET-DGFI 151
+
+Query: 74  IKIPGERLVGRPEMRLKKRWK 94
+             I G +   R   R  K++K
+Sbjct: 152 SYIYGSKFQLRSSERSAKKFK 172
+
+
+>ref|XP_001149162.1| PREDICTED: similar to Pop4 protein isoform 4 [Pan troglodytes]
+          Length = 207
+
+ Score = 35.4 bits (80), Expect = 0.92
+ Identities = 24/81 (29%), Positives = 42/81 (51%), Gaps = 3/81 (3%)
+
+Query: 16  ELIGLRVRIVGSTHPAFVGIEGYVIDETRNM--LVIAGDRIWKVPKDVSIFEFEADDGTK 73
+           +L G  + +  S  P++VGI G ++ ET+++  ++   DR+  +PK   +F  E  DG  
+Sbjct: 121 DLHGAIISVTKSKCPSYVGITGILLQETKHIFKIITKEDRLKVIPKLNCVFTVET-DGFI 179
+
+Query: 74  IKIPGERLVGRPEMRLKKRWK 94
+             I G +   R   R  K++K
+Sbjct: 180 SYIYGSKFQLRSSERSAKKFK 200
+
+
+>ref|XP_512983.2| PREDICTED: POP4 (processing of precursor , S. cerevisiae) homolog
+           isoform 6 [Pan troglodytes]
+          Length = 220
+
+ Score = 35.4 bits (80), Expect = 0.92
+ Identities = 24/81 (29%), Positives = 42/81 (51%), Gaps = 3/81 (3%)
+
+Query: 16  ELIGLRVRIVGSTHPAFVGIEGYVIDETRNM--LVIAGDRIWKVPKDVSIFEFEADDGTK 73
+           +L G  + +  S  P++VGI G ++ ET+++  ++   DR+  +PK   +F  E  DG  
+Sbjct: 134 DLHGAIISVTKSKCPSYVGITGILLQETKHIFKIITKEDRLKVIPKLNCVFTVET-DGFI 192
+
+Query: 74  IKIPGERLVGRPEMRLKKRWK 94
+             I G +   R   R  K++K
+Sbjct: 193 SYIYGSKFQLRSSERSAKKFK 213
+
+
+>ref|XP_001149225.1| PREDICTED: similar to Pop4 protein isoform 5 [Pan troglodytes]
+          Length = 249
+
+ Score = 35.4 bits (80), Expect = 0.92
+ Identities = 24/81 (29%), Positives = 42/81 (51%), Gaps = 3/81 (3%)
+
+Query: 16  ELIGLRVRIVGSTHPAFVGIEGYVIDETRNM--LVIAGDRIWKVPKDVSIFEFEADDGTK 73
+           +L G  + +  S  P++VGI G ++ ET+++  ++   DR+  +PK   +F  E  DG  
+Sbjct: 163 DLHGAIISVTKSKCPSYVGITGILLQETKHIFKIITKEDRLKVIPKLNCVFTVET-DGFI 221
+
+Query: 74  IKIPGERLVGRPEMRLKKRWK 94
+             I G +   R   R  K++K
+Sbjct: 222 SYIYGSKFQLRSSERSAKKFK 242
+
+
+>gb|AAH74186.1| MGC82042 protein [Xenopus laevis]
+          Length = 223
+
+ Score = 35.4 bits (80), Expect = 0.92
+ Identities = 23/91 (25%), Positives = 47/91 (51%), Gaps = 3/91 (3%)
+
+Query: 6   RVTRRNIIWHELIGLRVRIVGSTHPAFVGIEGYVIDETRNM--LVIAGDRIWKVPKDVSI 63
+           ++ +  ++  +L G  + +  S  P++VG++G ++ ET+++   +   D++  VPK   +
+Sbjct: 127 QMIQNKLLKADLHGALLTVAKSKCPSYVGLQGIILQETKHVFKFITKDDKLKIVPKLNCV 186
+
+Query: 64  FEFEADDGTKIKIPGERLVGRPEMRLKKRWK 94
+           F  E  DG    I G +   R   R  K++K
+Sbjct: 187 FSVEI-DGFISYIYGSKFQMRASERSAKKFK 216
+
+
+>gb|AAD00893.2| ribonuclease P protein subunit p29 [Homo sapiens]
+          Length = 220
+
+ Score = 35.4 bits (80), Expect = 0.92
+ Identities = 24/81 (29%), Positives = 42/81 (51%), Gaps = 3/81 (3%)
+
+Query: 16  ELIGLRVRIVGSTHPAFVGIEGYVIDETRNM--LVIAGDRIWKVPKDVSIFEFEADDGTK 73
+           +L G  + +  S  P++VGI G ++ ET+++  ++   DR+  +PK   +F  E  DG  
+Sbjct: 134 DLHGAIISVTKSKCPSYVGITGILLQETKHIFKIITKEDRLKVIPKLNCVFTVET-DGFI 192
+
+Query: 74  IKIPGERLVGRPEMRLKKRWK 94
+             I G +   R   R  K++K
+Sbjct: 193 SYIYGSKFQLRSSERSAKKFK 213
+
+
+>ref|NP_006618.1| POP4 (processing of precursor , S. cerevisiae) homolog [Homo
+           sapiens]
+ sp|O95707|RP29_HUMAN Ribonuclease P protein subunit p29 (hPOP4)
+ emb|CAB39167.1| Pop4 protein [Homo sapiens]
+ gb|AAH04438.1| Processing of precursor 4, ribonuclease P/MRP subunit (S.
+           cerevisiae) [Homo sapiens]
+ gb|AAH06098.1| Processing of precursor 4, ribonuclease P/MRP subunit (S.
+           cerevisiae) [Homo sapiens]
+ emb|CAG38806.1| POP4 [Homo sapiens]
+ gb|ABM83983.1| processing of precursor 4, ribonuclease P/MRP subunit (S.
+           cerevisiae) [synthetic construct]
+ gb|ABM87306.1| processing of precursor 4, ribonuclease P/MRP subunit (S.
+           cerevisiae) [synthetic construct]
+          Length = 220
+
+ Score = 35.4 bits (80), Expect = 0.92
+ Identities = 24/81 (29%), Positives = 42/81 (51%), Gaps = 3/81 (3%)
+
+Query: 16  ELIGLRVRIVGSTHPAFVGIEGYVIDETRNM--LVIAGDRIWKVPKDVSIFEFEADDGTK 73
+           +L G  + +  S  P++VGI G ++ ET+++  ++   DR+  +PK   +F  E  DG  
+Sbjct: 134 DLHGAIISVTKSKCPSYVGITGILLQETKHIFKIITKEDRLKVIPKLNCVFTVET-DGFI 192
+
+Query: 74  IKIPGERLVGRPEMRLKKRWK 94
+             I G +   R   R  K++K
+Sbjct: 193 SYIYGSKFQLRSSERSAKKFK 213
+
+
+>ref|XP_001084400.1| PREDICTED: processing of precursor 4, ribonuclease P/MRP subunit
+           (S. cerevisiae) [Macaca mulatta]
+          Length = 221
+
+ Score = 35.0 bits (79), Expect = 1.2
+ Identities = 24/81 (29%), Positives = 42/81 (51%), Gaps = 3/81 (3%)
+
+Query: 16  ELIGLRVRIVGSTHPAFVGIEGYVIDETRNM--LVIAGDRIWKVPKDVSIFEFEADDGTK 73
+           +L G  + +  S  P++VGI G ++ ET+++  ++   DR+  +PK   +F  E  DG  
+Sbjct: 135 DLHGAIISVTKSKCPSYVGITGILLQETKHIFKIITKEDRLKVIPKLNCVFTVEI-DGFI 193
+
+Query: 74  IKIPGERLVGRPEMRLKKRWK 94
+             I G +   R   R  K++K
+Sbjct: 194 SYIYGSKFQLRSSERSAKKFK 214
+
+
+>sp|Q2KIB9|RPP29_BOVIN Ribonuclease P protein subunit p29
+ gb|AAI12696.1| POP4 protein [Bos taurus]
+          Length = 220
+
+ Score = 35.0 bits (79), Expect = 1.2
+ Identities = 24/81 (29%), Positives = 42/81 (51%), Gaps = 3/81 (3%)
+
+Query: 16  ELIGLRVRIVGSTHPAFVGIEGYVIDETRNM--LVIAGDRIWKVPKDVSIFEFEADDGTK 73
+           +L G  V +  S  P++VG+ G ++ ET+++  ++   DR+  +PK   +F  E  DG  
+Sbjct: 134 DLHGAIVSVTKSKCPSYVGVTGILLQETKHVFKIITKEDRLKVIPKLNCVFTVEI-DGFI 192
+
+Query: 74  IKIPGERLVGRPEMRLKKRWK 94
+             I G +   R   R  K++K
+Sbjct: 193 SYIYGSKFQLRSSERSAKKFK 213
+
+
+>ref|XP_855541.1| PREDICTED: similar to Ribonuclease P protein subunit p29 (hPOP4)
+           [Canis familiaris]
+          Length = 307
+
+ Score = 35.0 bits (79), Expect = 1.2
+ Identities = 23/81 (28%), Positives = 42/81 (51%), Gaps = 3/81 (3%)
+
+Query: 16  ELIGLRVRIVGSTHPAFVGIEGYVIDETRNM--LVIAGDRIWKVPKDVSIFEFEADDGTK 73
+           +L G  + +  S  P++VG+ G ++ ET+++  ++   DR+  +PK   +F  E  DG  
+Sbjct: 221 DLHGALISVTKSKCPSYVGVTGILLQETKHVFKIITKEDRLKVIPKLNCVFTVEI-DGFI 279
+
+Query: 74  IKIPGERLVGRPEMRLKKRWK 94
+             I G +   R   R  K++K
+Sbjct: 280 SYIYGSKFQLRSSERSAKKFK 300
+
+
+>ref|NP_001029942.1| POP4 (processing of precursor , S. cerevisiae) homolog [Bos taurus]
+ gb|AAX46326.1| POP4 (processing of precursor , S. cerevisiae) homolog [Bos taurus]
+          Length = 182
+
+ Score = 35.0 bits (79), Expect = 1.2
+ Identities = 24/81 (29%), Positives = 42/81 (51%), Gaps = 3/81 (3%)
+
+Query: 16  ELIGLRVRIVGSTHPAFVGIEGYVIDETRNM--LVIAGDRIWKVPKDVSIFEFEADDGTK 73
+           +L G  V +  S  P++VG+ G ++ ET+++  ++   DR+  +PK   +F  E  DG  
+Sbjct: 96  DLHGAIVSVTKSKCPSYVGVTGILLQETKHVFKIITKEDRLKVIPKLNCVFTVEI-DGFI 154
+
+Query: 74  IKIPGERLVGRPEMRLKKRWK 94
+             I G +   R   R  K++K
+Sbjct: 155 SYIYGSKFQLRSSERSAKKFK 175
+
+
+>sp|Q5R7B0|RP29_PONPY Ribonuclease P protein subunit p29
+ emb|CAH92350.1| hypothetical protein [Pongo pygmaeus]
+          Length = 220
+
+ Score = 35.0 bits (79), Expect = 1.2
+ Identities = 24/81 (29%), Positives = 42/81 (51%), Gaps = 3/81 (3%)
+
+Query: 16  ELIGLRVRIVGSTHPAFVGIEGYVIDETRNM--LVIAGDRIWKVPKDVSIFEFEADDGTK 73
+           +L G  + +  S  P++VGI G ++ ET+++  ++   DR+  +PK   +F  E  DG  
+Sbjct: 134 DLHGAIISVTKSKCPSYVGITGILLQETKHIFKIITKEDRLKVIPKLNCVFTVEI-DGFI 192
+
+Query: 74  IKIPGERLVGRPEMRLKKRWK 94
+             I G +   R   R  K++K
+Sbjct: 193 SYIYGSKFQLRSSERSAKKFK 213
+
+
+>ref|XP_701926.2| PREDICTED: hypothetical protein [Danio rerio]
+          Length = 219
+
+ Score = 34.7 bits (78), Expect = 1.6
+ Identities = 23/91 (25%), Positives = 47/91 (51%), Gaps = 3/91 (3%)
+
+Query: 6   RVTRRNIIWHELIGLRVRIVGSTHPAFVGIEGYVIDETRNM--LVIAGDRIWKVPKDVSI 63
+           +V ++ ++  +  G  + +V S  P++VG+ G ++ E +++  L+   D++  +PK  S+
+Sbjct: 123 QVIQQKLLKADFHGAILTVVRSKCPSYVGLTGILVQELKHIFKLITKEDKLKVIPKRNSV 182
+
+Query: 64  FEFEADDGTKIKIPGERLVGRPEMRLKKRWK 94
+           F  E   G    I G +   R   R  K++K
+Sbjct: 183 FSVEV-GGFVSHIYGSKFELRSSERSAKKFK 212
+
+
+>ref|NP_001018585.1| processing of precursor 4, ribonuclease P/MRP subunit [Danio rerio]
+ gb|AAH95328.1| Processing of precursor 4, ribonuclease P/MRP subunit [Danio rerio]
+          Length = 219
+
+ Score = 34.7 bits (78), Expect = 1.6
+ Identities = 23/91 (25%), Positives = 47/91 (51%), Gaps = 3/91 (3%)
+
+Query: 6   RVTRRNIIWHELIGLRVRIVGSTHPAFVGIEGYVIDETRNM--LVIAGDRIWKVPKDVSI 63
+           +V ++ ++  +  G  + +V S  P++VG+ G ++ E +++  L+   D++  +PK  S+
+Sbjct: 123 QVIQQKLLKADFHGAILTVVRSKCPSYVGLTGILVQELKHIFKLITKEDKLKVIPKRNSV 182
+
+Query: 64  FEFEADDGTKIKIPGERLVGRPEMRLKKRWK 94
+           F  E   G    I G +   R   R  K++K
+Sbjct: 183 FSVEV-GGFVSHIYGSKFELRSSERSAKKFK 212
+
+
+>ref|NP_079666.1| POP4 (processing of precursor , S. cerevisiae) homolog [Mus
+           musculus]
+ sp|Q9CR08|RPP29_MOUSE Ribonuclease P protein subunit p29
+ dbj|BAB22410.1| unnamed protein product [Mus musculus]
+ dbj|BAB22696.1| unnamed protein product [Mus musculus]
+ gb|AAH11465.1| Pop4 protein [Mus musculus]
+ dbj|BAE29579.1| unnamed protein product [Mus musculus]
+ dbj|BAE31617.1| unnamed protein product [Mus musculus]
+          Length = 221
+
+ Score = 34.7 bits (78), Expect = 1.6
+ Identities = 22/81 (27%), Positives = 41/81 (50%), Gaps = 3/81 (3%)
+
+Query: 16  ELIGLRVRIVGSTHPAFVGIEGYVIDETRNM--LVIAGDRIWKVPKDVSIFEFEADDGTK 73
+           +L G  + +  S  P++VG+ G ++ ET+++  ++   D +  +PK   +F  E DD   
+Sbjct: 135 DLHGAIISVTKSKCPSYVGVTGILLQETKHVFKIITREDHLKVIPKLNCVFTIEIDDFIS 194
+
+Query: 74  IKIPGERLVGRPEMRLKKRWK 94
+             I G +   R   R  K++K
+Sbjct: 195 Y-IYGSKFQLRASERSAKKFK 214
+
+
+>ref|XP_001231227.1| PREDICTED: similar to POP4 protein [Gallus gallus]
+          Length = 220
+
+ Score = 34.3 bits (77), Expect = 2.1
+ Identities = 23/91 (25%), Positives = 47/91 (51%), Gaps = 3/91 (3%)
+
+Query: 6   RVTRRNIIWHELIGLRVRIVGSTHPAFVGIEGYVIDETRNM--LVIAGDRIWKVPKDVSI 63
+           ++ +  ++  +L G  V +  S  P++VGI G ++ E +++  ++   +++  VPK  ++
+Sbjct: 124 QMVQSKLLKADLHGAIVTVTKSKCPSYVGITGIILQEFKHVFKIITKDNKLKVVPKMNNV 183
+
+Query: 64  FEFEADDGTKIKIPGERLVGRPEMRLKKRWK 94
+           F  E  DG    I G +   R   R  K++K
+Sbjct: 184 FSLET-DGFISYIYGSKFQFRASERSAKKFK 213
+
+
+>ref|XP_414118.2| PREDICTED: similar to POP4 protein [Gallus gallus]
+          Length = 220
+
+ Score = 34.3 bits (77), Expect = 2.1
+ Identities = 23/91 (25%), Positives = 47/91 (51%), Gaps = 3/91 (3%)
+
+Query: 6   RVTRRNIIWHELIGLRVRIVGSTHPAFVGIEGYVIDETRNM--LVIAGDRIWKVPKDVSI 63
+           ++ +  ++  +L G  V +  S  P++VGI G ++ E +++  ++   +++  VPK  ++
+Sbjct: 124 QMVQSKLLKADLHGAIVTVTKSKCPSYVGITGIILQEFKHVFKIITKDNKLKVVPKMNNV 183
+
+Query: 64  FEFEADDGTKIKIPGERLVGRPEMRLKKRWK 94
+           F  E  DG    I G +   R   R  K++K
+Sbjct: 184 FSLET-DGFISYIYGSKFQFRASERSAKKFK 213
+
+
+>ref|NP_493083.1| C15C6.4 [Caenorhabditis elegans]
+ emb|CAB02730.1| Hypothetical protein C15C6.4 [Caenorhabditis elegans]
+          Length = 198
+
+ Score = 34.3 bits (77), Expect = 2.1
+ Identities = 26/84 (30%), Positives = 41/84 (48%), Gaps = 3/84 (3%)
+
+Query: 10  RNIIWHELIGLRVRIVGSTHPAFVGIEGYVIDETRN--MLVIAGDRIWKVPKDVSIFEFE 67
+           + I+  +  G  + I  + +P  +GI G V+ ETR+   +V   DR   +PK  S+F F 
+Sbjct: 91  KTILKSDYHGALLTIWLAENPTQIGISGIVVLETRHTFQMVTQEDRFVVIPKKGSVFRFI 150
+
+Query: 68  ADDGTKIKIPGERLVGRPEMRLKK 91
+             D     + G+ +  RP  R KK
+Sbjct: 151 LGD-RLFSLFGDGMRTRPAWRGKK 173
+
+
+>pdb|1PC0|A Chain A, Nmr Structure Of The Archaeal Homologue Of Rnase P
+          Protein Rpp29
+          Length = 61
+
+ Score = 33.9 bits (76), Expect = 2.7
+ Identities = 18/39 (46%), Positives = 26/39 (66%)
+
+Query: 19 GLRVRIVGSTHPAFVGIEGYVIDETRNMLVIAGDRIWKV 57
+          GL V +V S + + VGI+G V+DET+N L I  ++  KV
+Sbjct: 1  GLMVEVVESPNHSEVGIKGEVVDETQNTLKIMTEKGLKV 39
+
+
+>ref|XP_001259578.1| ribonuclease P complex subunit Pop4, putative [Neosartorya fischeri
+           NRRL 181]
+ gb|EAW17681.1| ribonuclease P complex subunit Pop4, putative [Neosartorya fischeri
+           NRRL 181]
+          Length = 236
+
+ Score = 33.5 bits (75), Expect = 3.5
+ Identities = 29/96 (30%), Positives = 43/96 (44%), Gaps = 20/96 (20%)
+
+Query: 19  GLRVRIVGSTHPAFVGIEGYVIDETRN--MLVIAGDRIWKVPKDVSIFEF-----EADD- 70
+           G  V +V S     VG++G V  +T+   M+V   D +  +PK+ +IF F      ADD 
+Sbjct: 134 GAEVEVVRSRCAGRVGVKGIVARDTKFTFMIVTEKDEVKTIPKEQTIFRFTVPLPSADDE 193
+
+Query: 71  ------GTKIK------IPGERLVGRPEMRLKKRWK 94
+                 G K K      + G +   RP  R  K++K
+Sbjct: 194 DTAMSYGDKAKKALTFELHGSQFENRPVDRANKKFK 229
+
+
+>gb|EAT78680.1| hypothetical protein SNOG_14055 [Phaeosphaeria nodorum SN15]
+          Length = 229
+
+ Score = 32.7 bits (73), Expect = 6.0
+ Identities = 28/88 (31%), Positives = 48/88 (54%), Gaps = 9/88 (10%)
+
+Query: 16  ELIGLRVRIVGSTHPAFVGIEGYVIDETR-NMLVIAGDRIWK-VPKDVSIFEFE-ADDGT 72
+           ++ G  +RIV S   + VG+EG V+ +TR    +I  + + K +PK+ +IF+F  A +G 
+Sbjct: 135 DMHGALLRIVRSRCVSRVGLEGIVVRDTRFTFEIITKNNVVKAIPKEHTIFQFTIALEGG 194
+
+Query: 73  KIKIP------GERLVGRPEMRLKKRWK 94
+           + K P      GE+   R   R  K+++
+Sbjct: 195 EEKKPLVFEINGEQFQTRAPDRANKKFR 222
+
+
+>dbj|BAE60136.1| unnamed protein product [Aspergillus oryzae]
+          Length = 245
+
+ Score = 32.7 bits (73), Expect = 6.0
+ Identities = 17/50 (34%), Positives = 27/50 (54%), Gaps = 2/50 (4%)
+
+Query: 19  GLRVRIVGSTHPAFVGIEGYVIDETRNMLVIA--GDRIWKVPKDVSIFEF 66
+           G  V +V S     VG+ G V+ +T+   V+   GD +  +PK+ +IF F
+Sbjct: 137 GAEVEVVRSRCAGRVGVRGIVVRDTKFTFVVVTEGDEVKTLPKEQTIFRF 186
+
+
+>ref|XP_766695.1| hypothetical protein TP01_1174 [Theileria parva strain Muguga]
+ gb|EAN34412.1| hypothetical protein TP01_1174 [Theileria parva]
+          Length = 253
+
+ Score = 32.7 bits (73), Expect = 6.0
+ Identities = 21/81 (25%), Positives = 43/81 (53%), Gaps = 3/81 (3%)
+
+Query: 16  ELIGLRVRIVGSTHPAFVGIEGYVIDETRN--MLVIAGDRIWKVPKDVSIFEFEADDGTK 73
+           +L G  + +V S   ++VG+ G V+ ET+N   +V   D++  + K+ S+F+   ++ + 
+Sbjct: 169 DLHGSLLEVVKSNCTSYVGVTGIVLKETQNGFSIVDKEDKVRFILKNSSVFKLNYEEWS- 227
+
+Query: 74  IKIPGERLVGRPEMRLKKRWK 94
+             I G+ ++     R K + K
+Sbjct: 228 FFIHGKHIMASASQRTKNKLK 248
+
+
+>ref|XP_001274409.1| ribonuclease P complex subunit Pop4, putative [Aspergillus clavatus
+           NRRL 1]
+ gb|EAW12983.1| ribonuclease P complex subunit Pop4, putative [Aspergillus clavatus
+           NRRL 1]
+          Length = 237
+
+ Score = 32.3 bits (72), Expect = 7.8
+ Identities = 27/96 (28%), Positives = 42/96 (43%), Gaps = 20/96 (20%)
+
+Query: 19  GLRVRIVGSTHPAFVGIEGYVIDETRN--MLVIAGDRIWKVPKDVSIFEF---------- 66
+           G  V +V S     VG++G V+ +T+   M+V   D +  +PK+ +IF F          
+Sbjct: 135 GAEVEVVRSRCAGRVGMKGIVVRDTKFTFMIVTEKDEMKTIPKEQTIFRFFVPLPIREDG 194
+
+Query: 67  ---EADDGTKIK-----IPGERLVGRPEMRLKKRWK 94
+                DD T  K     + G +   RP  R  K++K
+Sbjct: 195 DTAMTDDDTASKKLTFELHGSQFENRPVDRANKKFK 230
+
+
+  Database: All non-redundant GenBank CDS
+  translations+PDB+SwissProt+PIR+PRF excluding environmental samples
+  from WGS projects
+    Posted date:  May 9, 2007  5:55 PM
+  Number of letters in database: 1,693,139,330
+  Number of sequences in database:  4,904,269
+  
+Lambda     K      H
+   0.324    0.144    0.000 
+
+Gapped
+Lambda     K      H
+   0.267   0.0410 4.94e-324 
+
+Matrix: BLOSUM62
+Gap Penalties: Existence: 11, Extension: 1
+Number of Sequences: 4904269
+Number of Hits to DB: 17321271
+Number of extensions: 662023
+Number of successful extensions: 1350
+Number of sequences better than 10: 2
+Number of HSP's better than 10 without gapping: 0
+Number of HSP's gapped: 1356
+Number of HSP's successfully gapped: 2
+Length of query: 96
+Length of database: 1693139330
+Length adjustment: 65
+Effective length of query: 31
+Effective length of database: 1374361845
+Effective search space: 42605217195
+Effective search space used: 42605217195
+T: 11
+A: 40
+X1: 15 (7.0 bits)
+X2: 38 (14.6 bits)
+X3: 64 (24.7 bits)
+S1: 41 (20.4 bits)
+S2: 72 (32.3 bits)
+

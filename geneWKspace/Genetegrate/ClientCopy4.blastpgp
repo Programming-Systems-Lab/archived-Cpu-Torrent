@@ -1,0 +1,1184 @@
+BLASTP 2.2.15 [Oct-15-2006]
+
+
+Reference: Altschul, Stephen F., Thomas L. Madden, Alejandro A. Schaffer, 
+Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), 
+"Gapped BLAST and PSI-BLAST: a new generation of protein database search
+programs",  Nucleic Acids Res. 25:3389-3402.
+
+Query= fasta5
+         (138 letters)
+
+Database: All non-redundant GenBank CDS
+translations+PDB+SwissProt+PIR+PRF excluding environmental samples
+from WGS projects
+           4,904,269 sequences; 1,693,139,330 total letters
+
+
+
+                                                                 Score    E
+Sequences producing significant alignments:                      (bits) Value
+
+ref|XP_001311998.1| conserved hypothetical protein [Trichomonas ...    38   0.18 
+ref|XP_453995.1| unnamed protein product [Kluyveromyces lactis] ...    37   0.40 
+ref|XP_001310030.1| conserved hypothetical protein [Trichomonas ...    36   0.53 
+ref|NP_373178.1| serine-threoinine rich antigen [Staphylococcus ...    36   0.53 
+sp|Q8VQ99|SRAP_STAAU Serine-rich adhesin for platelets precursor...    36   0.69 
+ref|XP_001187428.1| PREDICTED: hypothetical protein [Strongyloce...    35   0.90 
+ref|XP_001179970.1| PREDICTED: hypothetical protein, partial [St...    35   0.90 
+ref|YP_501439.1| hypothetical protein SAOUHSC_02990 [Staphylococ...    35   1.2  
+ref|YP_495223.1| LPXTG-motif cell wall surface anchor family pro...    35   1.2  
+ref|YP_187464.1| LPXTG cell wall surface anchor family protein [...    35   1.2  
+ref|YP_044654.1| putative cell wall-anchored protein [Staphyloco...    35   1.2  
+ref|NP_647392.1| hypothetical protein MW2575 [Staphylococcus aur...    35   1.2  
+gb|AAO84907.1| extracellular matrix protein papilin 2 [Drosophil...    35   1.5  
+gb|AAG37995.1|AF205357_1 extracellular matrix protein papilin [D...    35   1.5  
+gb|AAO84908.1| extracellular matrix protein papilin 3 [Drosophil...    35   1.5  
+ref|NP_648831.1| CG13075-PA [Drosophila melanogaster] >gi|729419...    35   1.5  
+gb|AAG00554.1|AF286475_1 retinitis pigmentosa GTPase regulator-l...    34   2.0  
+gb|ABE91554.2| TonB box, N-terminal [Medicago truncatula]              34   2.6  
+gb|AAQ09848.1| CG10911 [Drosophila yakuba]                             34   2.6  
+ref|YP_042074.1| putative serine rich repeat containing protein ...    33   3.4  
+sp|Q868Z9|PPN_DROME Papilin precursor                                  33   4.5  
+ref|NP_788751.1| Papilin CG33103-PB, isoform B [Drosophila melan...    33   4.5  
+ref|NP_648504.2| CG6004-PB [Drosophila melanogaster] >gi|1844719...    33   4.5  
+ref|NP_788752.1| Papilin CG33103-PA, isoform A [Drosophila melan...    33   4.5  
+ref|XP_001384983.1| predicted protein [Pichia stipitis CBS 6054]...    33   5.8  
+gb|AAH75165.1| LOC443724 protein [Xenopus laevis]                      33   5.8  
+gb|AAF87093.1|AF167576_1 secreted antigen SagBb [Enterococcus hi...    33   5.8  
+gb|AAI10711.1| LOC443724 protein [Xenopus laevis]                      33   5.8  
+ref|XP_847865.1| hypothetical protein LMJ_0842 [Leishmania major...    33   5.8  
+gb|AAH94141.1| LOC443724 protein [Xenopus laevis]                      33   5.8  
+ref|YP_189831.1| serine threonine rich antigen [Staphylococcus e...    33   5.8  
+ref|NP_765804.1| streptococcal hemagglutinin protein [Staphyloco...    32   7.6  
+ref|NP_611286.1| CG10911-PA [Drosophila melanogaster] >gi|730268...    32   7.6  
+ref|YP_394895.1| Hypothetical lipoprotein precursor [Lactobacill...    32   7.6  
+ref|NP_496184.1| Location Of Vulva defective family member (lov-...    32   7.6  
+pir||T21460 hypothetical protein ZK945.10 - Caenorhabditis elegans     32   7.6  
+ref|XP_001355356.1| GA18086-PA [Drosophila pseudoobscura] >gi|54...    32   7.6  
+ref|XP_768937.1| hypothetical protein GLP_561_28660_36852 [Giard...    32   7.6  
+ref|XP_001369233.1| PREDICTED: similar to neuron growth-associat...    32   10.0 
+ref|YP_696758.1| bacterial extracellular solute-binding protein ...    32   10.0 
+ref|XP_453348.1| unnamed protein product [Kluyveromyces lactis] ...    32   10.0 
+gb|AAB41404.1| adenomatous polyposis coli [Drosophila melanogaster]    32   10.0 
+ref|NP_477152.1| APC-like CG1451-PA [Drosophila melanogaster] >g...    32   10.0 
+ref|XP_501626.1| hypothetical protein [Yarrowia lipolytica] >gi|...    32   10.0 
+ref|NP_562994.1| hypothetical protein CPE2078 [Clostridium perfr...    32   10.0 
+ref|XP_640638.1| hypothetical protein DDBDRAFT_0204669 [Dictyost...    32   10.0 
+
+>ref|XP_001311998.1| conserved hypothetical protein [Trichomonas vaginalis G3]
+ gb|EAX99068.1| conserved hypothetical protein [Trichomonas vaginalis G3]
+          Length = 895
+
+ Score = 37.7 bits (86), Expect = 0.18
+ Identities = 24/74 (32%), Positives = 38/74 (51%), Gaps = 3/74 (4%)
+
+Query: 3   ENETEGRATEADVANCEDDATABASESYSTEMSWHIMSETPLTOPERATINGSYSTEMSD 62
+           E+ T   +TE + +   + +T+ +S S STE S    S T  +  E +T+  S  TE S 
+Sbjct: 731 ESSTSTSSTETESSTSTESSTSTSSISTSTESS---TSSTSTSSTESSTLTSSTETESST 787
+
+Query: 63  ATABASESYSTEMS 76
+           +T  ++ S  TE S
+Sbjct: 788 STESSTSSTETESS 801
+
+
+>ref|XP_453995.1| unnamed protein product [Kluyveromyces lactis]
+ emb|CAG99082.1| unnamed protein product [Kluyveromyces lactis NRRL Y-1140]
+          Length = 1878
+
+ Score = 36.6 bits (83), Expect = 0.40
+ Identities = 25/81 (30%), Positives = 34/81 (41%), Gaps = 1/81 (1%)
+
+Query: 3   ENETEGRATEADVANCEDDATABASESYSTEMSWHIMSETPLTOPERATINGSYSTEMSD 62
+           E+ TE   T +DV + E    A  SE+ STE S    +    +         + S+  S 
+Sbjct: 574 ESSTEA-ITSSDVTSTESSTEATTSEATSTESSTEATTSDVTSTESPTEATSTESSTSST 632
+
+Query: 63  ATABASESYSTEMSAVANCED 83
+            TA+  E  STE S  A   D
+Sbjct: 633 TTADPQEQTSTESSTEATTSD 653
+
+
+
+ Score = 36.6 bits (83), Expect = 0.40
+ Identities = 24/83 (28%), Positives = 35/83 (42%)
+
+Query: 5   ETEGRATEADVANCEDDATABASESYSTEMSWHIMSETPLTOPERATINGSYSTEMSDAT 64
+           E+   AT +DV + E    A  SE+ STE S    +   ++         + S   S  T
+Sbjct: 832 ESSTEATTSDVISTESSTEATTSEATSTESSTEATTSDVISTESSTEATSTESFTSSTTT 891
+
+Query: 65  ABASESYSTEMSAVANCEDSOFT 87
+           A+  E  STE S  A   ++  T
+Sbjct: 892 ADPQEQTSTESSTEAITSEATST 914
+
+
+
+ Score = 33.9 bits (76), Expect = 2.6
+ Identities = 22/80 (27%), Positives = 35/80 (43%)
+
+Query: 5   ETEGRATEADVANCEDDATABASESYSTEMSWHIMSETPLTOPERATINGSYSTEMSDAT 64
+           E+   AT +DV + E    A ++ES+++  +     E   T      I    ++  S   
+Sbjct: 690 ESSTEATTSDVISTESSTEATSTESFTSSTTTADPQEQTSTESSTEAITSEATSTESSTE 749
+
+Query: 65  ABASESYSTEMSAVANCEDS 84
+           A  SE+ STE S  A   +S
+Sbjct: 750 ATTSEATSTESSTEATSTES 769
+
+
+
+ Score = 33.5 bits (75), Expect = 3.4
+ Identities = 28/80 (35%), Positives = 37/80 (46%), Gaps = 4/80 (5%)
+
+Query: 5    ETEGRATEADVANCEDDATABASESYSTEMSWHIMSETPLTOPERATINGSYSTEMSDAT 64
+            E+   AT +DV + E    A ++ES STE S    S    T    AT +   STE S   
+Sbjct: 1234 ESSTEATTSDVISTESSTEATSTES-STESSTEATSTESST---EATTSDVISTESSTEA 1289
+
+Query: 65   ABASESYSTEMSAVANCEDS 84
+              +S+  STE S  A   +S
+Sbjct: 1290 ITSSDVTSTESSTEATSTES 1309
+
+
+
+ Score = 33.1 bits (74), Expect = 4.5
+ Identities = 26/79 (32%), Positives = 36/79 (45%), Gaps = 2/79 (2%)
+
+Query: 6   TEGRATEADVANCEDDATABASESY-STEMSWHIMSETPLTOPERATINGSYSTEMSDAT 64
+           T   AT +DV + E    A ++ES+ S+  +     +T       AT +   STE S   
+Sbjct: 792 TTSEATTSDVISTESSTEATSTESFTSSTTTADPQEQTSTESSTEATTSDVISTE-SSTE 850
+
+Query: 65  ABASESYSTEMSAVANCED 83
+           A  SE+ STE S  A   D
+Sbjct: 851 ATTSEATSTESSTEATTSD 869
+
+
+
+ Score = 33.1 bits (74), Expect = 4.5
+ Identities = 26/81 (32%), Positives = 39/81 (48%), Gaps = 2/81 (2%)
+
+Query: 5    ETEGRATEADVANCEDDATABASESY-STEMSWHIMSETPLTOPERATINGSYSTEMSDA 63
+            E+   AT +DV + E    A ++ES+ S+  +     +T       AT + + STE S  
+Sbjct: 984  ESSTEATTSDVISTESSTEATSTESFTSSTTTADPQEQTSTESSTEATTSEATSTE-SST 1042
+
+Query: 64   TABASESYSTEMSAVANCEDS 84
+             A  SE+ STE S  A   +S
+Sbjct: 1043 EATTSEATSTESSTEATSTES 1063
+
+
+
+ Score = 33.1 bits (74), Expect = 4.5
+ Identities = 23/82 (28%), Positives = 43/82 (52%), Gaps = 3/82 (3%)
+
+Query: 3    ENETEGRATEADVANCEDDATABASESYSTEMSWHIMSETPLTOPERATINGSYSTEMSD 62
+            E+ TE   T +DV + E    A ++E+ STE S   ++    T    +T + + +T  ++
+Sbjct: 1094 ESSTEA-ITSSDVTSTESSTEATSTEATSTESSTEAITSEATTSEATSTESSTEATTSTE 1152
+
+Query: 63   ATABA--SESYSTEMSAVANCE 82
+            ++ +A  S+  STE S  ++ E
+Sbjct: 1153 SSTEATTSDVISTESSTESSTE 1174
+
+
+
+ Score = 32.7 bits (73), Expect = 5.8
+ Identities = 27/79 (34%), Positives = 35/79 (44%), Gaps = 14/79 (17%)
+
+Query: 5    ETEGRATEADVANCEDDATABASESYSTEMSWHIMSETPLTOPERATINGSYSTEMSDAT 64
+            E+   AT +DV + E    A  SE+ STE S              AT +   STE S  T
+Sbjct: 1179 ESSTEATTSDVISTESSTEATTSEATSTESS------------TEATTSDVISTESS--T 1224
+
+Query: 65   ABASESYSTEMSAVANCED 83
+              ++E+ STE S  A   D
+Sbjct: 1225 ESSTEATSTESSTEATTSD 1243
+
+
+
+ Score = 32.3 bits (72), Expect = 7.6
+ Identities = 25/86 (29%), Positives = 37/86 (43%), Gaps = 8/86 (9%)
+
+Query: 3   ENETEGRATEADVANCEDDATABASESYSTEMSWHIMSETPLTOPERATINGSYSTEM-- 60
+           E+ TE  +TE+  ++     TA+  E  STE S    +    T    +T + + +T    
+Sbjct: 759 ESSTEATSTESSTSST---TTADPQEQTSTESSTEATTSEATTSDVISTESSTEATSTES 815
+
+Query: 61  ---SDATABASESYSTEMSAVANCED 83
+              S  TA+  E  STE S  A   D
+Sbjct: 816 FTSSTTTADPQEQTSTESSTEATTSD 841
+
+
+>ref|XP_001310030.1| conserved hypothetical protein [Trichomonas vaginalis G3]
+ gb|EAX97100.1| conserved hypothetical protein [Trichomonas vaginalis G3]
+          Length = 662
+
+ Score = 36.2 bits (82), Expect = 0.53
+ Identities = 27/90 (30%), Positives = 44/90 (48%), Gaps = 4/90 (4%)
+
+Query: 1   EGENETEGRATEADVANCEDDATABASESYSTEMSWHIMSETPL---TOPERATINGSYS 57
+           E E+ T   +TE++       +++  SES ++  S    SE+     T  E  T + S S
+Sbjct: 410 ESESTTSSSSTESESTTSSSSSSSTESESTTSSSSSSTESESTTSSSTESESTTSSSSSS 469
+
+Query: 58  TEMSDATABASESYSTEMSAVANCEDSOFT 87
+           TE S++T  +S S STE  + ++   S  T
+Sbjct: 470 TE-SESTTSSSTSTSTESESTSSSSTSTST 498
+
+
+
+ Score = 33.1 bits (74), Expect = 4.5
+ Identities = 25/80 (31%), Positives = 41/80 (51%), Gaps = 4/80 (5%)
+
+Query: 11  TEADVANCEDDATABASESYSTEMSWHIMSETPLTOPERATINGSYSTEMSDATABAS-- 68
+           T +  ++ E ++T  +S S STE      S T  +    +T + S STE S++T+ +S  
+Sbjct: 463 TSSSSSSTESESTTSSSTSTSTESESTSSSSTSTSTESESTTSSSTSTE-SESTSSSSTS 521
+
+Query: 69  -ESYSTEMSAVANCEDSOFT 87
+            ES ST  S+ ++ E    T
+Sbjct: 522 TESESTTSSSSSSTESESTT 541
+
+
+
+ Score = 32.3 bits (72), Expect = 7.6
+ Identities = 25/86 (29%), Positives = 41/86 (47%), Gaps = 5/86 (5%)
+
+Query: 5   ETEGRATEADVANCEDDATABASESYSTEMSWHIMSETPLTOPERATINGSYSTEMSDAT 64
+           E+E   + +   + E ++T+ +S S STE      S T  +    +T + S STE    T
+Sbjct: 471 ESESTTSSSTSTSTESESTSSSSTSTSTESESTTSSST--STESESTSSSSTSTESESTT 528
+
+Query: 65  ABAS---ESYSTEMSAVANCEDSOFT 87
+           + +S   ES ST  S+ ++ E    T
+Sbjct: 529 SSSSSSTESESTTSSSSSSTESESTT 554
+
+
+
+ Score = 32.0 bits (71), Expect = 10.0
+ Identities = 23/79 (29%), Positives = 36/79 (45%), Gaps = 1/79 (1%)
+
+Query: 10  ATEADVANCEDDATABASESYSTEM-SWHIMSETPLTOPERATINGSYSTEMSDATABAS 68
+           +TE++        +   + S STE  S    S +  T  E  T + S STE    T+ ++
+Sbjct: 398 STESESTTSSSTESESTTSSSSTESESTTSSSSSSSTESESTTSSSSSSTESESTTSSST 457
+
+Query: 69  ESYSTEMSAVANCEDSOFT 87
+           ES ST  S+ ++ E    T
+Sbjct: 458 ESESTTSSSSSSTESESTT 476
+
+
+>ref|NP_373178.1| serine-threoinine rich antigen [Staphylococcus aureus subsp. aureus
+            Mu50]
+ ref|NP_375773.1| hypothetical protein SA2447 [Staphylococcus aureus subsp. aureus
+            N315]
+ ref|ZP_01237751.1| Surface protein from Gram-positive cocci, anchor region
+            [Staphylococcus aureus subsp. aureus JH1]
+ ref|ZP_01240413.1| Surface protein from Gram-positive cocci, anchor region
+            [Staphylococcus aureus subsp. aureus JH9]
+ sp|Q7A362|SRAP_STAAN Serine-rich adhesin for platelets precursor (Staphylococcus aureus
+            surface protein A)
+ sp|Q99QY4|SRAP_STAAM Serine-rich adhesin for platelets precursor (Staphylococcus aureus
+            surface protein A)
+ dbj|BAB43752.1| SA2447 [Staphylococcus aureus subsp. aureus N315]
+ dbj|BAB58816.1| serine-threoinine rich antigen [Staphylococcus aureus subsp. aureus
+            Mu50]
+ gb|EAS54421.1| Surface protein from Gram-positive cocci, anchor region
+            [Staphylococcus aureus subsp. aureus JH1]
+ gb|EAS57136.1| Surface protein from Gram-positive cocci, anchor region
+            [Staphylococcus aureus subsp. aureus JH9]
+          Length = 2271
+
+ Score = 36.2 bits (82), Expect = 0.53
+ Identities = 26/80 (32%), Positives = 43/80 (53%), Gaps = 2/80 (2%)
+
+Query: 5    ETEGRATEADVANCEDDATABASESYSTEMSWHIMSETPLTOPERATINGSYSTEMSDAT 64
+            E+E  +    +++ E  +T++ S+S ST  S      T  +  E  + +GS ST +SD+T
+Sbjct: 2039 ESESTSDSTSISDSESLSTSD-SDSTSTSTSDSTSGSTSTSISESLSTSGSGSTSVSDST 2097
+
+Query: 65   ABASESYSTEMSAVANCEDS 84
+            +  SES ST +S   +  DS
+Sbjct: 2098 S-MSESDSTSVSMSQDKSDS 2116
+
+
+
+ Score = 32.0 bits (71), Expect = 10.0
+ Identities = 24/74 (32%), Positives = 40/74 (54%), Gaps = 9/74 (12%)
+
+Query: 4    NETEGRATEADVANCEDDATABASESYSTEMSWHIMSETPLTOPERATINGSYSTEMSDA 63
+            N T G A+ +   +  +  +   SES ST +S  + + T L+       + S ST +SD+
+Sbjct: 1253 NSTSGSASISTSTSISESTSTFKSESVSTSLS--MSTSTSLSN------STSLSTSLSDS 1304
+
+Query: 64   TABA-SESYSTEMS 76
+            T+++ S+S ST MS
+Sbjct: 1305 TSDSKSDSLSTSMS 1318
+
+
+>sp|Q8VQ99|SRAP_STAAU Serine-rich adhesin for platelets precursor (Staphylococcus aureus
+            surface protein A)
+ gb|AAL58470.1|AF459093_1 serine-threonine rich antigen [Staphylococcus aureus]
+          Length = 2283
+
+ Score = 35.8 bits (81), Expect = 0.69
+ Identities = 26/80 (32%), Positives = 42/80 (52%), Gaps = 2/80 (2%)
+
+Query: 5    ETEGRATEADVANCEDDATABASESYSTEMSWHIMSETPLTOPERATINGSYSTEMSDAT 64
+            E+E  +    +++ E  +T++ S+S ST  S      T  +  E  + +GS ST +SD+T
+Sbjct: 2037 ESESTSDSTSISDSESLSTSD-SDSTSTSTSVSTSGSTSTSVSESLSTSGSGSTSVSDST 2095
+
+Query: 65   ABASESYSTEMSAVANCEDS 84
+            +  SES ST  S   +  DS
+Sbjct: 2096 S-MSESDSTSASMSQDKSDS 2114
+
+
+>ref|XP_001187428.1| PREDICTED: hypothetical protein [Strongylocentrotus purpuratus]
+          Length = 819
+
+ Score = 35.4 bits (80), Expect = 0.90
+ Identities = 24/85 (28%), Positives = 38/85 (44%), Gaps = 6/85 (7%)
+
+Query: 5   ETEGRATEADVANCEDDATABASESYSTEMSWHIMSETPLTOPERATINGSYSTEMSDAT 64
+           E E  ATEAD    E D+TA  +++ +TE      ++T  T  +        +    D T
+Sbjct: 459 EAETTATEADTTATEADSTATEADTTATE------ADTTATEADTTATEADTTATEDDTT 512
+
+Query: 65  ABASESYSTEMSAVANCEDSOFTWA 89
+           A  +++ +TE    A   D+  T A
+Sbjct: 513 ATETDTTATEADTTATEADTTATEA 537
+
+
+
+ Score = 33.9 bits (76), Expect = 2.6
+ Identities = 24/89 (26%), Positives = 37/89 (41%), Gaps = 6/89 (6%)
+
+Query: 1   EGENETEGRATEADVANCEDDATABASESYSTEMSWHIMSETPLTOPERATINGSYSTEM 60
+           E E      ATEA+    E D TA  ++S +TE      ++T  T  +        +   
+Sbjct: 448 EAETTAATTATEAETTATEADTTATEADSTATE------ADTTATEADTTATEADTTATE 501
+
+Query: 61  SDATABASESYSTEMSAVANCEDSOFTWA 89
+           +D TA   ++ +TE    A   D+  T A
+Sbjct: 502 ADTTATEDDTTATETDTTATEADTTATEA 530
+
+
+>ref|XP_001179970.1| PREDICTED: hypothetical protein, partial [Strongylocentrotus
+           purpuratus]
+          Length = 545
+
+ Score = 35.4 bits (80), Expect = 0.90
+ Identities = 24/85 (28%), Positives = 38/85 (44%), Gaps = 6/85 (7%)
+
+Query: 5   ETEGRATEADVANCEDDATABASESYSTEMSWHIMSETPLTOPERATINGSYSTEMSDAT 64
+           E E  ATEAD    E D+TA  +++ +TE      ++T  T  +        +    D T
+Sbjct: 459 EAETTATEADTTATEADSTATEADTTATE------ADTTATEADTTATEADTTATEDDTT 512
+
+Query: 65  ABASESYSTEMSAVANCEDSOFTWA 89
+           A  +++ +TE    A   D+  T A
+Sbjct: 513 ATETDTTATEADTTATEADTTATEA 537
+
+
+
+ Score = 33.9 bits (76), Expect = 2.6
+ Identities = 24/89 (26%), Positives = 37/89 (41%), Gaps = 6/89 (6%)
+
+Query: 1   EGENETEGRATEADVANCEDDATABASESYSTEMSWHIMSETPLTOPERATINGSYSTEM 60
+           E E      ATEA+    E D TA  ++S +TE      ++T  T  +        +   
+Sbjct: 448 EAETTAATTATEAETTATEADTTATEADSTATE------ADTTATEADTTATEADTTATE 501
+
+Query: 61  SDATABASESYSTEMSAVANCEDSOFTWA 89
+           +D TA   ++ +TE    A   D+  T A
+Sbjct: 502 ADTTATEDDTTATETDTTATEADTTATEA 530
+
+
+>ref|YP_501439.1| hypothetical protein SAOUHSC_02990 [Staphylococcus aureus subsp.
+            aureus NCTC 8325]
+ sp|Q2FUW1|SRAP_STAA8 Serine-rich adhesin for platelets precursor (Staphylococcus aureus
+            surface protein A)
+ gb|ABD31977.1| conserved hypothetical protein [Staphylococcus aureus subsp. aureus
+            NCTC 8325]
+          Length = 2271
+
+ Score = 35.0 bits (79), Expect = 1.2
+ Identities = 25/80 (31%), Positives = 43/80 (53%), Gaps = 2/80 (2%)
+
+Query: 5    ETEGRATEADVANCEDDATABASESYSTEMSWHIMSETPLTOPERATINGSYSTEMSDAT 64
+            E+E  +    +++ E  +T++ S+S ST  S      T  +  E  + +GS ST +SD+T
+Sbjct: 2039 ESESTSDSTSISDSESLSTSD-SDSTSTSTSDSTSGSTSTSISESLSTSGSGSTSVSDST 2097
+
+Query: 65   ABASESYSTEMSAVANCEDS 84
+            +  SES S+ +S   +  DS
+Sbjct: 2098 S-MSESNSSSVSMSQDKSDS 2116
+
+
+>ref|YP_495223.1| LPXTG-motif cell wall surface anchor family protein [Staphylococcus
+            aureus subsp. aureus USA300]
+ sp|Q2FDK5|SRAP_STAA3 Serine-rich adhesin for platelets precursor (Staphylococcus aureus
+            surface protein A)
+ gb|ABD21900.1| LPXTG-motif cell wall surface anchor family protein [Staphylococcus
+            aureus subsp. aureus USA300]
+          Length = 2271
+
+ Score = 35.0 bits (79), Expect = 1.2
+ Identities = 25/80 (31%), Positives = 43/80 (53%), Gaps = 2/80 (2%)
+
+Query: 5    ETEGRATEADVANCEDDATABASESYSTEMSWHIMSETPLTOPERATINGSYSTEMSDAT 64
+            E+E  +    +++ E  +T++ S+S ST  S      T  +  E  + +GS ST +SD+T
+Sbjct: 2039 ESESTSDSTSISDSESLSTSD-SDSTSTSTSDSTSGSTSTSISESLSTSGSGSTSVSDST 2097
+
+Query: 65   ABASESYSTEMSAVANCEDS 84
+            +  SES S+ +S   +  DS
+Sbjct: 2098 S-MSESNSSSVSMSQDKSDS 2116
+
+
+>ref|YP_187464.1| LPXTG cell wall surface anchor family protein [Staphylococcus aureus
+            subsp. aureus COL]
+ sp|Q5HCP3|SRAP_STAAC Serine-rich adhesin for platelets precursor (Staphylococcus aureus
+            surface protein A)
+ gb|AAW38674.1| LPXTG cell wall surface anchor family protein [Staphylococcus aureus
+            subsp. aureus COL]
+          Length = 2261
+
+ Score = 35.0 bits (79), Expect = 1.2
+ Identities = 25/80 (31%), Positives = 43/80 (53%), Gaps = 2/80 (2%)
+
+Query: 5    ETEGRATEADVANCEDDATABASESYSTEMSWHIMSETPLTOPERATINGSYSTEMSDAT 64
+            E+E  +    +++ E  +T++ S+S ST  S      T  +  E  + +GS ST +SD+T
+Sbjct: 2029 ESESTSDSTSISDSESLSTSD-SDSTSTSTSDSTSGSTSTSISESLSTSGSGSTSVSDST 2087
+
+Query: 65   ABASESYSTEMSAVANCEDS 84
+            +  SES S+ +S   +  DS
+Sbjct: 2088 S-MSESNSSSVSMSQDKSDS 2106
+
+
+>ref|YP_044654.1| putative cell wall-anchored protein [Staphylococcus aureus subsp.
+            aureus MSSA476]
+ sp|Q6G620|SRAP_STAAS Serine-rich adhesin for platelets precursor (Staphylococcus aureus
+            surface protein A)
+ emb|CAG44357.1| putative cell wall-anchored protein [Staphylococcus aureus subsp.
+            aureus MSSA476]
+          Length = 2275
+
+ Score = 35.0 bits (79), Expect = 1.2
+ Identities = 25/82 (30%), Positives = 43/82 (52%), Gaps = 2/82 (2%)
+
+Query: 5    ETEGRATEADVANCEDDATABASESYSTEMSWHIMSETPLTOPERATINGSYSTEMSDAT 64
+            E+E  +    +++ E  +T++ S+S ST  S      T  +  E  + +GS ST +SD+T
+Sbjct: 2039 ESESTSDSTSISDSESLSTSD-SDSTSTSTSDSTSGSTSTSISESLSTSGSGSTSVSDST 2097
+
+Query: 65   ABASESYSTEMSAVANCEDSOF 86
+            +  SES ST +S   +   S +
+Sbjct: 2098 S-MSESDSTSVSMSQSMSGSTY 2118
+
+
+
+ Score = 32.0 bits (71), Expect = 10.0
+ Identities = 24/74 (32%), Positives = 40/74 (54%), Gaps = 9/74 (12%)
+
+Query: 4    NETEGRATEADVANCEDDATABASESYSTEMSWHIMSETPLTOPERATINGSYSTEMSDA 63
+            N T G A+ +   +  +  +   SES ST +S  + + T L+       + S ST +SD+
+Sbjct: 1253 NSTSGSASISTSTSISESTSTFKSESVSTSLS--MSTSTSLSD------STSLSTSLSDS 1304
+
+Query: 64   TABA-SESYSTEMS 76
+            T+++ S+S ST MS
+Sbjct: 1305 TSDSKSDSLSTSMS 1318
+
+
+>ref|NP_647392.1| hypothetical protein MW2575 [Staphylococcus aureus subsp. aureus MW2]
+ sp|Q8NUJ3|SRAP_STAAW Serine-rich adhesin for platelets precursor (Staphylococcus aureus
+            surface protein A)
+ dbj|BAB96440.1| MW2575 [Staphylococcus aureus subsp. aureus MW2]
+          Length = 2275
+
+ Score = 35.0 bits (79), Expect = 1.2
+ Identities = 25/82 (30%), Positives = 43/82 (52%), Gaps = 2/82 (2%)
+
+Query: 5    ETEGRATEADVANCEDDATABASESYSTEMSWHIMSETPLTOPERATINGSYSTEMSDAT 64
+            E+E  +    +++ E  +T++ S+S ST  S      T  +  E  + +GS ST +SD+T
+Sbjct: 2039 ESESTSDSTSISDSESLSTSD-SDSTSTSTSDSTSGSTSTSISESLSTSGSGSTSVSDST 2097
+
+Query: 65   ABASESYSTEMSAVANCEDSOF 86
+            +  SES ST +S   +   S +
+Sbjct: 2098 S-MSESDSTSVSMSQSMSGSTY 2118
+
+
+
+ Score = 32.0 bits (71), Expect = 10.0
+ Identities = 24/74 (32%), Positives = 40/74 (54%), Gaps = 9/74 (12%)
+
+Query: 4    NETEGRATEADVANCEDDATABASESYSTEMSWHIMSETPLTOPERATINGSYSTEMSDA 63
+            N T G A+ +   +  +  +   SES ST +S  + + T L+       + S ST +SD+
+Sbjct: 1253 NSTSGSASISTSTSISESTSTFKSESVSTSLS--MSTSTSLSD------STSLSTSLSDS 1304
+
+Query: 64   TABA-SESYSTEMS 76
+            T+++ S+S ST MS
+Sbjct: 1305 TSDSKSDSLSTSMS 1318
+
+
+>gb|AAO84907.1| extracellular matrix protein papilin 2 [Drosophila melanogaster]
+          Length = 2776
+
+ Score = 34.7 bits (78), Expect = 1.5
+ Identities = 20/83 (24%), Positives = 40/83 (48%), Gaps = 1/83 (1%)
+
+Query: 6    TEGRATEADVANCEDDATABASESYSTEMSWHIMSETPLTOPERATINGSYSTEMSDATA 65
+            TE  +     A  +  A++++++S S + +     E+     E +T++ S +T+ S  + 
+Sbjct: 948  TENSSDSTSDATSDSTASSDSTDSTSDQTT-ETTPESSTDSTESSTLDASSTTDASSTSE 1006
+
+Query: 66   BASESYSTEMSAVANCEDSOFTW 88
+             +SES +   S  +N   S  TW
+Sbjct: 1007 SSSESSTDGSSTTSNSASSETTW 1029
+
+
+
+ Score = 33.1 bits (74), Expect = 4.5
+ Identities = 22/84 (26%), Positives = 39/84 (46%), Gaps = 2/84 (2%)
+
+Query: 1    EGENETEGRATEADVANCEDDATABASESYSTEMSWHIMSETPLTOPERATINGSYSTEM 60
+            E  + +   +TE       +D T     S STE +  I S+   T  E +T+    S+  
+Sbjct: 1057 ESTDGSSNASTEGSTEGASEDTTISTESSGSTESTDAIASDGSTT--EGSTVEDLSSSTS 1114
+
+Query: 61   SDATABASESYSTEMSAVANCEDS 84
+            SD T++++ + S+  + V+   DS
+Sbjct: 1115 SDVTSDSTITDSSPSTEVSGSTDS 1138
+
+
+>gb|AAG37995.1|AF205357_1 extracellular matrix protein papilin [Drosophila melanogaster]
+          Length = 2174
+
+ Score = 34.7 bits (78), Expect = 1.5
+ Identities = 20/83 (24%), Positives = 40/83 (48%), Gaps = 1/83 (1%)
+
+Query: 6    TEGRATEADVANCEDDATABASESYSTEMSWHIMSETPLTOPERATINGSYSTEMSDATA 65
+            TE  +     A  +  A++++++S S + +     E+     E +T++ S +T+ S  + 
+Sbjct: 948  TENSSDSTSDATSDSTASSDSTDSTSDQTT-ETTPESSTDSTESSTLDASSTTDASSTSE 1006
+
+Query: 66   BASESYSTEMSAVANCEDSOFTW 88
+             +SES +   S  +N   S  TW
+Sbjct: 1007 SSSESSTDGSSTTSNSASSETTW 1029
+
+
+
+ Score = 33.1 bits (74), Expect = 4.5
+ Identities = 22/84 (26%), Positives = 39/84 (46%), Gaps = 2/84 (2%)
+
+Query: 1    EGENETEGRATEADVANCEDDATABASESYSTEMSWHIMSETPLTOPERATINGSYSTEM 60
+            E  + +   +TE       +D T     S STE +  I S+   T  E +T+    S+  
+Sbjct: 1057 ESTDGSSNASTEGSTEGASEDTTISTESSGSTESTDAIASDGSTT--EGSTVEDLSSSTS 1114
+
+Query: 61   SDATABASESYSTEMSAVANCEDS 84
+            SD T++++ + S+  + V+   DS
+Sbjct: 1115 SDVTSDSTITDSSPSTEVSGSTDS 1138
+
+
+>gb|AAO84908.1| extracellular matrix protein papilin 3 [Drosophila melanogaster]
+          Length = 2898
+
+ Score = 34.7 bits (78), Expect = 1.5
+ Identities = 20/83 (24%), Positives = 40/83 (48%), Gaps = 1/83 (1%)
+
+Query: 6    TEGRATEADVANCEDDATABASESYSTEMSWHIMSETPLTOPERATINGSYSTEMSDATA 65
+            TE  +     A  +  A++++++S S + +     E+     E +T++ S +T+ S  + 
+Sbjct: 948  TENSSDSTSDATSDSTASSDSTDSTSDQTT-ETTPESSTDSTESSTLDASSTTDASSTSE 1006
+
+Query: 66   BASESYSTEMSAVANCEDSOFTW 88
+             +SES +   S  +N   S  TW
+Sbjct: 1007 SSSESSTDGSSTTSNSASSETTW 1029
+
+
+
+ Score = 33.1 bits (74), Expect = 4.5
+ Identities = 22/84 (26%), Positives = 39/84 (46%), Gaps = 2/84 (2%)
+
+Query: 1    EGENETEGRATEADVANCEDDATABASESYSTEMSWHIMSETPLTOPERATINGSYSTEM 60
+            E  + +   +TE       +D T     S STE +  I S+   T  E +T+    S+  
+Sbjct: 1057 ESTDGSSNASTEGSTEGASEDTTISTESSGSTESTDAIASDGSTT--EGSTVEDLSSSTS 1114
+
+Query: 61   SDATABASESYSTEMSAVANCEDS 84
+            SD T++++ + S+  + V+   DS
+Sbjct: 1115 SDVTSDSTITDSSPSTEVSGSTDS 1138
+
+
+>ref|NP_648831.1| CG13075-PA [Drosophila melanogaster]
+ gb|AAF49545.1| CG13075-PA [Drosophila melanogaster]
+ gb|ABJ17014.1| IP10546p [Drosophila melanogaster]
+          Length = 339
+
+ Score = 34.7 bits (78), Expect = 1.5
+ Identities = 24/87 (27%), Positives = 39/87 (44%), Gaps = 7/87 (8%)
+
+Query: 1   EGENETEGRATEADVANCEDDATABASESYSTEMSWHIMSETPLTOPERATINGSYSTEM 60
+           +  +++   A+  + ++     TA ++ S STE        TP T    A+ +   STE 
+Sbjct: 257 QSPSDSSSTASSTESSSESSSTTASSTASSSTE-------STPTTASSSASSSTESSTES 309
+
+Query: 61  SDATABASESYSTEMSAVANCEDSOFT 87
+           S  TA  ++S STE S  +    S  T
+Sbjct: 310 SSTTASTTQSSSTESSTQSTSTTSTTT 336
+
+
+>gb|AAG00554.1|AF286475_1 retinitis pigmentosa GTPase regulator-like protein [Takifugu
+           rubripes]
+          Length = 791
+
+ Score = 34.3 bits (77), Expect = 2.0
+ Identities = 21/74 (28%), Positives = 33/74 (44%), Gaps = 1/74 (1%)
+
+Query: 1   EGENETEGRATEADVANCEDDATABASESYSTEMSWHIMSETPLTOPERATINGSYSTEM 60
+           + E+ETEG   E + ++ E +  ++  E  STE       E   T  E +      STE 
+Sbjct: 471 DAESETEGEGAEEEQSSTEKEGESNEEEQSSTEKEESNEEEQSSTEKEESNEEEQSSTE- 529
+
+Query: 61  SDATABASESYSTE 74
+            +  ++  E  STE
+Sbjct: 530 KEGESNEEEQSSTE 543
+
+
+>gb|ABE91554.2| TonB box, N-terminal [Medicago truncatula]
+          Length = 1370
+
+ Score = 33.9 bits (76), Expect = 2.6
+ Identities = 22/78 (28%), Positives = 38/78 (48%), Gaps = 1/78 (1%)
+
+Query: 1    EGENETEGRATEADVA-NCEDDATABASESYSTEMSWHIMSETPLTOPERATINGSYSTE 59
+            +GE   +  A +A V     +D +A  +ES+    S    S TP+   +  +I+GS + E
+Sbjct: 1290 QGELPEKRDAEDASVKLEANEDGSAKLNESFDVSTSAEETSRTPVDKLDNVSISGSSNKE 1349
+
+Query: 60   MSDATABASESYSTEMSA 77
+             S +   +S S S+  S+
+Sbjct: 1350 KSHSRKSSSSSSSSSSSS 1367
+
+
+>gb|AAQ09848.1| CG10911 [Drosophila yakuba]
+          Length = 268
+
+ Score = 33.9 bits (76), Expect = 2.6
+ Identities = 22/77 (28%), Positives = 39/77 (50%)
+
+Query: 3   ENETEGRATEADVANCEDDATABASESYSTEMSWHIMSETPLTOPERATINGSYSTEMSD 62
+           E+ T+     + V+      ++  S S STE S    +++  +  E +T + S STE S 
+Sbjct: 149 ESSTDSSTDSSSVSTESSTDSSTDSSSVSTESSTDSSTDSSSSSTESSTDSSSASTESST 208
+
+Query: 63  ATABASESYSTEMSAVA 79
+            ++  S + STE S+V+
+Sbjct: 209 DSSSDSTASSTESSSVS 225
+
+
+
+ Score = 32.0 bits (71), Expect = 10.0
+ Identities = 21/82 (25%), Positives = 39/82 (47%)
+
+Query: 3   ENETEGRATEADVANCEDDATABASESYSTEMSWHIMSETPLTOPERATINGSYSTEMSD 62
+           E+ T+  +   + +      ++ AS   ST+ S    S +  +  + +T + S STE S 
+Sbjct: 78  ESSTDSSSVSTESSTDSSTDSSSASTESSTDSSTDSSSASTESSTDSSTDSSSVSTESST 137
+
+Query: 63  ATABASESYSTEMSAVANCEDS 84
+            ++  S S STE S  ++ + S
+Sbjct: 138 DSSTDSSSVSTESSTDSSTDSS 159
+
+
+>ref|YP_042074.1| putative serine rich repeat containing protein [Staphylococcus aureus
+            subsp. aureus MRSA252]
+ sp|Q6GDE9|SRAP_STAAR Serine-rich adhesin for platelets precursor (Staphylococcus aureus
+            surface protein A)
+ emb|CAG41711.1| putative serine rich repeat containing protein [Staphylococcus aureus
+            subsp. aureus MRSA252]
+          Length = 1351
+
+ Score = 33.5 bits (75), Expect = 3.4
+ Identities = 23/72 (31%), Positives = 37/72 (51%), Gaps = 1/72 (1%)
+
+Query: 13   ADVANCEDDATABASESYSTEMSWHIMSETPLTOPERATINGSYSTEMSDATABASESYS 72
+            +D  +    ++   S+S ST  S      T  +  E  +++GS ST +SD+T+  SES S
+Sbjct: 1112 SDSKSASTASSESISQSVSTSTSGSTSGSTSTSTSESLSMSGSDSTSVSDSTS-MSESDS 1170
+
+Query: 73   TEMSAVANCEDS 84
+            T +S   +  DS
+Sbjct: 1171 TSVSMSQDKSDS 1182
+
+
+>sp|Q868Z9|PPN_DROME Papilin precursor
+          Length = 2898
+
+ Score = 33.1 bits (74), Expect = 4.5
+ Identities = 22/84 (26%), Positives = 39/84 (46%), Gaps = 2/84 (2%)
+
+Query: 1    EGENETEGRATEADVANCEDDATABASESYSTEMSWHIMSETPLTOPERATINGSYSTEM 60
+            E  + +   +TE       +D T     S STE +  I S+   T  E +T+    S+  
+Sbjct: 1057 ESTDGSSNASTEGSTEGASEDTTISTESSGSTESTDAIASDGSTT--EGSTVEDLSSSTS 1114
+
+Query: 61   SDATABASESYSTEMSAVANCEDS 84
+            SD T++++ + S+  + V+   DS
+Sbjct: 1115 SDVTSDSTITDSSPSTEVSGSTDS 1138
+
+
+>ref|NP_788751.1| Papilin CG33103-PB, isoform B [Drosophila melanogaster]
+ gb|AAF56794.3| CG33103-PB, isoform B [Drosophila melanogaster]
+          Length = 2772
+
+ Score = 33.1 bits (74), Expect = 4.5
+ Identities = 22/84 (26%), Positives = 39/84 (46%), Gaps = 2/84 (2%)
+
+Query: 1    EGENETEGRATEADVANCEDDATABASESYSTEMSWHIMSETPLTOPERATINGSYSTEM 60
+            E  + +   +TE       +D T     S STE +  I S+   T  E +T+    S+  
+Sbjct: 1057 ESTDGSSNASTEGSTEGASEDTTISTESSGSTESTDAIASDGSTT--EGSTVEDLSSSTS 1114
+
+Query: 61   SDATABASESYSTEMSAVANCEDS 84
+            SD T++++ + S+  + V+   DS
+Sbjct: 1115 SDVTSDSTITDSSPSTEVSGSTDS 1138
+
+
+>ref|NP_648504.2| CG6004-PB [Drosophila melanogaster]
+ gb|AAL68190.1| GH09355p [Drosophila melanogaster]
+ gb|AAF50015.3| CG6004-PB [Drosophila melanogaster]
+          Length = 1514
+
+ Score = 33.1 bits (74), Expect = 4.5
+ Identities = 29/91 (31%), Positives = 45/91 (49%), Gaps = 8/91 (8%)
+
+Query: 1    EGENETEGR-ATEADVANCEDDATABASESYSTEMSWHIMSETPLTOPERATINGSYSTE 59
+            E  + TEG  +TE+      + ++ ++S+  +T+ S    +E+PL+       N S STE
+Sbjct: 976  ESSSSTEGPLSTESSTEGSNESSSTESSQDSTTQES-SSSTESPLSTEPSTEANESSSTE 1034
+
+Query: 60   MS-DATABASES-----YSTEMSAVANCEDS 84
+             S D+T   S S      STE S  A+ E S
+Sbjct: 1035 SSQDSTTQESSSSTEGPLSTESSTEASNESS 1065
+
+
+
+ Score = 32.7 bits (73), Expect = 5.8
+ Identities = 28/87 (32%), Positives = 43/87 (49%), Gaps = 8/87 (9%)
+
+Query: 1   EGENETEGR-ATEADVANCEDDATABASESYSTEMSWHIMSETPLTOPERATINGSYSTE 59
+           E  + TEG  +TE+      + ++ ++S+  +T+ S    +E+PL+       N S STE
+Sbjct: 610 ESSSSTEGPLSTESSTEGSNESSSTESSQDSTTQKS-SSSTESPLSTEPSTEANESSSTE 668
+
+Query: 60  MS-DATABASES-----YSTEMSAVAN 80
+            S D+T   S S      STE S  AN
+Sbjct: 669 SSQDSTTQESSSSTEGPLSTEPSTEAN 695
+
+
+
+ Score = 32.7 bits (73), Expect = 5.8
+ Identities = 28/87 (32%), Positives = 43/87 (49%), Gaps = 8/87 (9%)
+
+Query: 1   EGENETEGR-ATEADVANCEDDATABASESYSTEMSWHIMSETPLTOPERATINGSYSTE 59
+           E  + TEG  +TE+      + ++ ++S+  +T+ S    +E+PL+       N S STE
+Sbjct: 876 ESSSSTEGPLSTESSTEGSNESSSTESSQDSTTQES-SSSTESPLSTEPSTEANESSSTE 934
+
+Query: 60  MS-DATABASES-----YSTEMSAVAN 80
+            S D+T   S S      STE S  AN
+Sbjct: 935 SSQDSTTQESSSSTEGPLSTESSTEAN 961
+
+
+
+ Score = 32.3 bits (72), Expect = 7.6
+ Identities = 28/90 (31%), Positives = 40/90 (44%), Gaps = 7/90 (7%)
+
+Query: 1   EGENETEGRATEADVANCEDDATABASESYSTEMSWHIMSETPLTOPERATINGSYSTEM 60
+           E  + TEG  +        + ++ ++S+  +T+ S    SE PL+       N S STE 
+Sbjct: 776 ESSSSTEGPLSTEPSTEANESSSTESSQDSTTQES-SSSSEGPLSTESSTEANESSSTES 834
+
+Query: 61  S-DATABASES-----YSTEMSAVANCEDS 84
+           S D+T   S S      STE S  A  E S
+Sbjct: 835 SQDSTTQESSSSTEDPLSTESSTEATYESS 864
+
+
+>ref|NP_788752.1| Papilin CG33103-PA, isoform A [Drosophila melanogaster]
+ gb|AAF56795.3| CG33103-PA, isoform A [Drosophila melanogaster]
+          Length = 2894
+
+ Score = 33.1 bits (74), Expect = 4.5
+ Identities = 22/84 (26%), Positives = 39/84 (46%), Gaps = 2/84 (2%)
+
+Query: 1    EGENETEGRATEADVANCEDDATABASESYSTEMSWHIMSETPLTOPERATINGSYSTEM 60
+            E  + +   +TE       +D T     S STE +  I S+   T  E +T+    S+  
+Sbjct: 1057 ESTDGSSNASTEGSTEGASEDTTISTESSGSTESTDAIASDGSTT--EGSTVEDLSSSTS 1114
+
+Query: 61   SDATABASESYSTEMSAVANCEDS 84
+            SD T++++ + S+  + V+   DS
+Sbjct: 1115 SDVTSDSTITDSSPSTEVSGSTDS 1138
+
+
+>ref|XP_001384983.1| predicted protein [Pichia stipitis CBS 6054]
+ gb|ABN66954.1| predicted protein [Pichia stipitis CBS 6054]
+          Length = 240
+
+ Score = 32.7 bits (73), Expect = 5.8
+ Identities = 23/74 (31%), Positives = 33/74 (44%), Gaps = 3/74 (4%)
+
+Query: 4   NETEGRATEADVANCEDDATABASESYSTEMSWHIMSETPLTOPERATINGSYSTEMSDA 63
+           +  E  +TE+  A       +   ES STE +    S  P +  E AT     STE S  
+Sbjct: 95  SSAESSSTESSSAESSSTEASSTEESSSTEET---SSAEPSSSSEEATSTEESSTEESST 151
+
+Query: 64  TABASESYSTEMSA 77
+              ++E+ STE S+
+Sbjct: 152 EESSAEATSTEESS 165
+
+
+>gb|AAH75165.1| LOC443724 protein [Xenopus laevis]
+          Length = 747
+
+ Score = 32.7 bits (73), Expect = 5.8
+ Identities = 25/78 (32%), Positives = 37/78 (47%), Gaps = 1/78 (1%)
+
+Query: 1   EGENETEGRATEADVANCEDDATABASESYSTEMSWHIMSETPLTOPERATINGSYSTEM 60
+           E     + +AT+ ++AN E  +    S+S   E      SET     E +      S+E 
+Sbjct: 665 EPSEPVKNKATKLEMANSEKSSDKFYSDSEQEEKESEESSETESESEEDSDNEKESSSEQ 724
+
+Query: 61  SDATABA-SESYSTEMSA 77
+           SDA++ A SES S E S+
+Sbjct: 725 SDASSSAESESESDESSS 742
+
+
+>gb|AAF87093.1|AF167576_1 secreted antigen SagBb [Enterococcus hirae]
+          Length = 576
+
+ Score = 32.7 bits (73), Expect = 5.8
+ Identities = 24/80 (30%), Positives = 34/80 (42%), Gaps = 2/80 (2%)
+
+Query: 1   EGENETEGRATEADVANCEDDATABASESY--STEMSWHIMSETPLTOPERATINGSYST 58
+           E    TE   T  +  + E   T + S S   ST       +E+  T  E  +   S +T
+Sbjct: 309 EESTSTESSTTTEESTSTESSTTTEESTSTESSTTTEESTSTESSTTTEESTSTESSTTT 368
+
+Query: 59  EMSDATABASESYSTEMSAV 78
+           E S   + ++ES STE S V
+Sbjct: 369 ENSSTGSSSTESSSTEESTV 388
+
+
+>gb|AAI10711.1| LOC443724 protein [Xenopus laevis]
+          Length = 752
+
+ Score = 32.7 bits (73), Expect = 5.8
+ Identities = 25/78 (32%), Positives = 37/78 (47%), Gaps = 1/78 (1%)
+
+Query: 1   EGENETEGRATEADVANCEDDATABASESYSTEMSWHIMSETPLTOPERATINGSYSTEM 60
+           E     + +AT+ ++AN E  +    S+S   E      SET     E +      S+E 
+Sbjct: 665 EPSEPVKNKATKLEMANSEKSSDKFYSDSEQEEKESEESSETESESEEDSDNEKESSSEQ 724
+
+Query: 61  SDATABA-SESYSTEMSA 77
+           SDA++ A SES S E S+
+Sbjct: 725 SDASSSAESESESDESSS 742
+
+
+>ref|XP_847865.1| hypothetical protein LMJ_0842 [Leishmania major strain Friedlin]
+ gb|AAZ09657.1| hypothetical protein, conserved [Leishmania major strain Friedlin]
+          Length = 536
+
+ Score = 32.7 bits (73), Expect = 5.8
+ Identities = 22/79 (27%), Positives = 40/79 (50%), Gaps = 8/79 (10%)
+
+Query: 4   NETEGRATEADVANCEDDATAB-------ASESYSTEMSWHIMSETPLTOPERATINGSY 56
+           +E+E R+++A V++   D TA        ASE  + ++ W + + T L       + G +
+Sbjct: 339 HESEKRSSDA-VSSSGSDKTAPLQRMQSLASERRTEDVGWRLFALTVLQKTTTLILRGCF 397
+
+Query: 57  STEMSDATABASESYSTEM 75
+           +T   DAT  + +S S E+
+Sbjct: 398 TTSTGDATNASQDSTSAEI 416
+
+
+>gb|AAH94141.1| LOC443724 protein [Xenopus laevis]
+          Length = 1099
+
+ Score = 32.7 bits (73), Expect = 5.8
+ Identities = 25/78 (32%), Positives = 37/78 (47%), Gaps = 1/78 (1%)
+
+Query: 1   EGENETEGRATEADVANCEDDATABASESYSTEMSWHIMSETPLTOPERATINGSYSTEM 60
+           E     + +AT+ ++AN E  +    S+S   E      SET     E +      S+E 
+Sbjct: 665 EPSEPVKNKATKLEMANSEKSSDKFYSDSEQEEKESEESSETESESEEDSDNEKESSSEQ 724
+
+Query: 61  SDATABA-SESYSTEMSA 77
+           SDA++ A SES S E S+
+Sbjct: 725 SDASSSAESESESDESSS 742
+
+
+>ref|YP_189831.1| serine threonine rich antigen [Staphylococcus epidermidis RP62A]
+ gb|AAW53156.1| serine threonine rich antigen [Staphylococcus epidermidis RP62A]
+          Length = 1870
+
+ Score = 32.7 bits (73), Expect = 5.8
+ Identities = 21/74 (28%), Positives = 41/74 (55%), Gaps = 2/74 (2%)
+
+Query: 4    NETEGRATEADVANCEDDATABASESYSTEMSWHIMSETPLTOPERATINGSYSTEMSDA 63
+            +E+E  +    V+     + ++++ + ++E +    SE+  T  E  +++GS ST +SD+
+Sbjct: 1475 SESESTSESTSVSESSSTSVSDSTSTSTSESASTSTSESESTS-ESTSLSGSSSTSVSDS 1533
+
+Query: 64   TA-BASESYSTEMS 76
+            T+   SES ST  S
+Sbjct: 1534 TSTSTSESASTSTS 1547
+
+
+>ref|NP_765804.1| streptococcal hemagglutinin protein [Staphylococcus epidermidis ATCC
+            12228]
+ gb|AAO05891.1|AE016751_186 streptococcal hemagglutinin protein [Staphylococcus epidermidis ATCC
+            12228]
+          Length = 2310
+
+ Score = 32.3 bits (72), Expect = 7.6
+ Identities = 20/74 (27%), Positives = 41/74 (55%), Gaps = 1/74 (1%)
+
+Query: 6    TEGRATEADVANCEDDATABASESYSTEMSWHIMSETPLTOPERATINGSYSTEMSDATA 65
+            +E  +T   V++  + A+   SES ST +S    + T  +  E A+ + S ST +SD+T+
+Sbjct: 1779 SESASTSTSVSD-SNSASTSLSESTSTSLSGSTSTSTSDSASESASESESTSTSVSDSTS 1837
+
+Query: 66   BASESYSTEMSAVA 79
+             ++ +  +E ++ +
+Sbjct: 1838 ASTSTSESESNSTS 1851
+
+
+>ref|NP_611286.1| CG10911-PA [Drosophila melanogaster]
+ gb|AAF57760.1| CG10911-PA [Drosophila melanogaster]
+ gb|AAM48399.1| RE12410p [Drosophila melanogaster]
+          Length = 359
+
+ Score = 32.3 bits (72), Expect = 7.6
+ Identities = 23/86 (26%), Positives = 45/86 (52%), Gaps = 3/86 (3%)
+
+Query: 1   EGENETEGRATEA--DVANCEDDATABASESYSTEMSWHIMSETPLTOPERATINGSYST 58
+           +   ++   +TE+  D ++   +++ ++S S STE S    +++     E +T + S ST
+Sbjct: 203 DSSTDSTSASTESSTDSSSVSTESSTDSS-SVSTESSTDSSTDSSSASTESSTDSSSVST 261
+
+Query: 59  EMSDATABASESYSTEMSAVANCEDS 84
+           E S  ++  S S STE S  ++ + S
+Sbjct: 262 ESSTDSSTDSSSVSTESSTDSSTDSS 287
+
+
+>ref|YP_394895.1| Hypothetical lipoprotein precursor [Lactobacillus sakei subsp.
+           sakei 23K]
+ emb|CAI54583.1| Hypothetical lipoprotein precursor [Lactobacillus sakei subsp.
+           sakei 23K]
+          Length = 207
+
+ Score = 32.3 bits (72), Expect = 7.6
+ Identities = 22/75 (29%), Positives = 41/75 (54%), Gaps = 5/75 (6%)
+
+Query: 10  ATEADVANCEDDATABASESYSTEMSWHIMSETPLTOPERATINGSYSTEMSDATABASE 69
+           ++E+ V + +  + +  ++S S+E S   +SE+  T     T   S +   +D+T+  S+
+Sbjct: 32  SSESKVTSVKKTSHSKKAQSQSSEES---VSES--TSDSEVTSQSSQTPSATDSTSTVSQ 86
+
+Query: 70  SYSTEMSAVANCEDS 84
+           S ST+ S VAN + S
+Sbjct: 87  SASTQSSQVANSQSS 101
+
+
+>ref|NP_496184.1| Location Of Vulva defective family member (lov-1) [Caenorhabditis
+           elegans]
+ sp|Q09624|YS89_CAEEL Hypothetical protein ZK945.9
+ emb|CAB70201.1| Hypothetical protein ZK945.9 [Caenorhabditis elegans]
+ emb|CAB70192.1| Hypothetical protein ZK945.9 [Caenorhabditis elegans]
+          Length = 3178
+
+ Score = 32.3 bits (72), Expect = 7.6
+ Identities = 22/74 (29%), Positives = 36/74 (48%), Gaps = 2/74 (2%)
+
+Query: 6   TEGRATEADVANCEDDATABAS--ESYSTEMSWHIMSETPLTOPERATINGSYSTEMSDA 63
+           TE  +T + V   E   T   S   + +TE S   ++ +P T P  +T+  S S+  +  
+Sbjct: 414 TEVTSTSSTVTTTEPTTTLTTSTASTSTTEPSTSTVTTSPSTSPVTSTVTSSSSSSTTVT 473
+
+Query: 64  TABASESYSTEMSA 77
+           T  ++ES ST  S+
+Sbjct: 474 TPTSTESTSTSPSS 487
+
+
+>pir||T21460 hypothetical protein ZK945.10 - Caenorhabditis elegans
+          Length = 796
+
+ Score = 32.3 bits (72), Expect = 7.6
+ Identities = 22/74 (29%), Positives = 36/74 (48%), Gaps = 2/74 (2%)
+
+Query: 6   TEGRATEADVANCEDDATABAS--ESYSTEMSWHIMSETPLTOPERATINGSYSTEMSDA 63
+           TE  +T + V   E   T   S   + +TE S   ++ +P T P  +T+  S S+  +  
+Sbjct: 414 TEVTSTSSTVTTTEPTTTLTTSTASTSTTEPSTSTVTTSPSTSPVTSTVTSSSSSSTTVT 473
+
+Query: 64  TABASESYSTEMSA 77
+           T  ++ES ST  S+
+Sbjct: 474 TPTSTESTSTSPSS 487
+
+
+>ref|XP_001355356.1| GA18086-PA [Drosophila pseudoobscura]
+ gb|EAL32413.1| GA18086-PA [Drosophila pseudoobscura]
+          Length = 1300
+
+ Score = 32.3 bits (72), Expect = 7.6
+ Identities = 23/81 (28%), Positives = 39/81 (48%), Gaps = 10/81 (12%)
+
+Query: 4   NETEGRAT----EADVANCEDDATABASESYSTEMSWHIMSETPLTOPERATINGSYSTE 59
+           N + GRAT     +        AT +A+E+ +TE       +      ++ TI    S+ 
+Sbjct: 615 NASGGRATTPTTSSGTVTATATATGNANENANTE------DQNQNQNHKQKTIKAMSSSS 668
+
+Query: 60  MSDATABASESYSTEMSAVAN 80
+             D+TA+ ++S+  +MSA AN
+Sbjct: 669 SFDSTANLNQSFRYKMSAEAN 689
+
+
+>ref|XP_768937.1| hypothetical protein GLP_561_28660_36852 [Giardia lamblia ATCC
+           50803]
+ gb|EAA38821.1| GLP_561_28660_36852 [Giardia lamblia ATCC 50803]
+          Length = 2730
+
+ Score = 32.3 bits (72), Expect = 7.6
+ Identities = 20/63 (31%), Positives = 33/63 (52%), Gaps = 1/63 (1%)
+
+Query: 15  VANCEDDATABASESYSTEMSWH-IMSETPLTOPERATINGSYSTEMSDATABASESYST 73
+           V + ED AT +   +   ++ W   +S+TP T    AT+   Y   +S   A+ +E+Y+ 
+Sbjct: 317 VLSDEDAATLEWVVTKMNQIKWSSTISQTPKTKTTSATVTEIYEEYVSLMKAERNEAYAA 376
+
+Query: 74  EMS 76
+           EMS
+Sbjct: 377 EMS 379
+
+
+>ref|XP_001369233.1| PREDICTED: similar to neuron growth-associated protein 43
+           [Monodelphis domestica]
+          Length = 253
+
+ Score = 32.0 bits (71), Expect = 10.0
+ Identities = 27/87 (31%), Positives = 41/87 (47%), Gaps = 5/87 (5%)
+
+Query: 1   EGENETEGRATEADVANCEDD--ATABASESYSTEMSWHIMSETPLTOP--ERATINGSY 56
+           +GE + + RA EAD    +D+  ATA+A E   +E         P+  P  E A+  G  
+Sbjct: 63  KGEKKGDARAAEADANEKKDEAAATADAVEKKESEAP-AATEAAPVDGPKAEEASKAGES 121
+
+Query: 57  STEMSDATABASESYSTEMSAVANCED 83
+           ++E  +A A A+ S      A A  E+
+Sbjct: 122 TSEEKEAGAPAAASEQPAPKATAPSEE 148
+
+
+>ref|YP_696758.1| bacterial extracellular solute-binding protein [Clostridium
+          perfringens ATCC 13124]
+ gb|ABG83438.1| bacterial extracellular solute-binding protein [Clostridium
+          perfringens ATCC 13124]
+          Length = 482
+
+ Score = 32.0 bits (71), Expect = 10.0
+ Identities = 17/74 (22%), Positives = 31/74 (41%), Gaps = 4/74 (5%)
+
+Query: 11 TEADVANCEDDATABASESYSTEMSWHIMSETPLTOPERATINGSYSTEMSDATABAS-- 68
+          T   +  C  D TA+A E  + +++W+ + +TP            Y  E  +AT +    
+Sbjct: 18 TSVALTGCGADKTANAGEGETVKLTWYTIGQTPKDLDMVQEKANEYLKEKINATIDMKFI 77
+
+Query: 69 --ESYSTEMSAVAN 80
+              Y+ +M  + N
+Sbjct: 78 DYGDYTQKMGVIIN 91
+
+
+>ref|XP_453348.1| unnamed protein product [Kluyveromyces lactis]
+ emb|CAH00444.1| unnamed protein product [Kluyveromyces lactis NRRL Y-1140]
+          Length = 1423
+
+ Score = 32.0 bits (71), Expect = 10.0
+ Identities = 26/85 (30%), Positives = 43/85 (50%), Gaps = 12/85 (14%)
+
+Query: 3   ENETEGRATEA--------DVANCEDDATABA---SESYSTEMSWHIMSETPLTOPERAT 51
+           EN + G +TE+        DV+  E  +T +A   SE+ ST  S    SE+P +  + +T
+Sbjct: 481 ENVSTGESTESSESPTSTEDVSTDESTSTTEAASTSENVSTAESTE-SSESPTSTEDVST 539
+
+Query: 52  INGSYSTEMSDATABASESYSTEMS 76
+              + +TE +  + + S + STE S
+Sbjct: 540 DESTSTTEAASTSENVSTAESTESS 564
+
+
+>gb|AAB41404.1| adenomatous polyposis coli [Drosophila melanogaster]
+          Length = 2416
+
+ Score = 32.0 bits (71), Expect = 10.0
+ Identities = 19/67 (28%), Positives = 34/67 (50%), Gaps = 2/67 (2%)
+
+Query: 10   ATEADVANCEDDATABASESYSTEMSWHIMSETPLTOPERATINGSYSTEMSDATABASE 69
+            A ++ V N E D   +   SY TE +  ++S+ P       ++    ST+  DATA  ++
+Sbjct: 1126 AVKSTVVNSEVDVAEETIRSYCTEDTPALLSKVPSNT--NLSVISMSSTDPKDATAGQAQ 1183
+
+Query: 70   SYSTEMS 76
+             Y+ ++S
+Sbjct: 1184 MYAHQLS 1190
+
+
+>ref|NP_477152.1| APC-like CG1451-PA [Drosophila melanogaster]
+ gb|AAF56820.1| CG1451-PA [Drosophila melanogaster]
+          Length = 2417
+
+ Score = 32.0 bits (71), Expect = 10.0
+ Identities = 19/67 (28%), Positives = 34/67 (50%), Gaps = 2/67 (2%)
+
+Query: 10   ATEADVANCEDDATABASESYSTEMSWHIMSETPLTOPERATINGSYSTEMSDATABASE 69
+            A ++ V N E D   +   SY TE +  ++S+ P       ++    ST+  DATA  ++
+Sbjct: 1127 AVKSTVVNSEVDVAEETIRSYCTEDTPALLSKVPSNT--NLSVISMSSTDPKDATAGQAQ 1184
+
+Query: 70   SYSTEMS 76
+             Y+ ++S
+Sbjct: 1185 MYAHQLS 1191
+
+
+>ref|XP_501626.1| hypothetical protein [Yarrowia lipolytica]
+ emb|CAG81929.1| unnamed protein product [Yarrowia lipolytica CLIB122]
+          Length = 1347
+
+ Score = 32.0 bits (71), Expect = 10.0
+ Identities = 24/110 (21%), Positives = 43/110 (39%), Gaps = 5/110 (4%)
+
+Query: 22  ATABASESYSTEMSWHIMSETPLTOP-----ERATINGSYSTEMSDATABASESYSTEMS 76
+           + A +S + S+  S  ++S TP++       E  T+NG+ STE  D  A +S       +
+Sbjct: 695 SAAVSSAAVSSTPSVSLVSSTPVSIDTCIETETVTVNGTVSTETKDVCATSSTPAPVSTN 754
+
+Query: 77  AVANCEDSOFTWAXXXXXXXXXXXXXPREDICTPROTEINHAVEANICED 126
+                E +  +               P  D CT   T +++     + +D
+Sbjct: 755 TCIEVETTTVSGTASTVTKDVCASTTPSADPCTEVVTVLSNGTTTVVTKD 804
+
+
+>ref|NP_562994.1| hypothetical protein CPE2078 [Clostridium perfringens str. 13]
+ dbj|BAB81784.1| conserved hypothetical protein [Clostridium perfringens str. 13]
+          Length = 482
+
+ Score = 32.0 bits (71), Expect = 10.0
+ Identities = 17/74 (22%), Positives = 31/74 (41%), Gaps = 4/74 (5%)
+
+Query: 11 TEADVANCEDDATABASESYSTEMSWHIMSETPLTOPERATINGSYSTEMSDATABAS-- 68
+          T   +  C  D TA+A E  + +++W+ + +TP            Y  E  +AT +    
+Sbjct: 18 TSVALTGCGADKTANAGEGETVKLTWYTIGQTPKDLDMVQEKANEYLKEKINATIDMKFI 77
+
+Query: 69 --ESYSTEMSAVAN 80
+              Y+ +M  + N
+Sbjct: 78 DYGDYTQKMGVIIN 91
+
+
+>ref|XP_640638.1| hypothetical protein DDBDRAFT_0204669 [Dictyostelium discoideum
+           AX4]
+ gb|EAL66652.1| hypothetical protein DDBDRAFT_0204669 [Dictyostelium discoideum
+           AX4]
+          Length = 620
+
+ Score = 32.0 bits (71), Expect = 10.0
+ Identities = 19/66 (28%), Positives = 37/66 (56%)
+
+Query: 11  TEADVANCEDDATABASESYSTEMSWHIMSETPLTOPERATINGSYSTEMSDATABASES 70
+           +E++  +   +  +++S SYS+E S    SE+  +    +  + SYS+E   + + + ES
+Sbjct: 209 SESNSESYSSEFNSESSGSYSSESSGSYSSESSGSESSGSYSSESYSSESYSSESYSPES 268
+
+Query: 71  YSTEMS 76
+           YS+E S
+Sbjct: 269 YSSESS 274
+
+
+  Database: All non-redundant GenBank CDS
+  translations+PDB+SwissProt+PIR+PRF excluding environmental samples
+  from WGS projects
+    Posted date:  May 9, 2007  5:55 PM
+  Number of letters in database: 1,693,139,330
+  Number of sequences in database:  4,904,269
+  
+Lambda     K      H
+   0.307    0.119    0.000 
+
+Gapped
+Lambda     K      H
+   0.267   0.0410 4.94e-324 
+
+Matrix: BLOSUM62
+Gap Penalties: Existence: 11, Extension: 1
+Number of Sequences: 4904269
+Number of Hits to DB: 16864086
+Number of extensions: 467301
+Number of successful extensions: 1176
+Number of sequences better than 10: 2
+Number of HSP's better than 10 without gapping: 0
+Number of HSP's gapped: 1221
+Number of HSP's successfully gapped: 3
+Length of query: 138
+Length of database: 1693139330
+Length adjustment: 103
+Effective length of query: 35
+Effective length of database: 1187999623
+Effective search space: 41579986805
+Effective search space used: 41579986805
+T: 11
+A: 40
+X1: 16 (7.1 bits)
+X2: 38 (14.6 bits)
+X3: 64 (24.7 bits)
+S1: 42 (20.8 bits)
+S2: 71 (32.0 bits)
+
