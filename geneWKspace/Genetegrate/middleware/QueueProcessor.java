@@ -80,7 +80,7 @@ public class QueueProcessor extends Thread {
 							
 							try {
 									Class theClass = Class.forName("source." + className);
-									Constructor<source.Invoker>[] cons = theClass.getConstructors();
+									Constructor[] cons = theClass.getConstructors();
 									if (cons.length != 0) {
 										((source.Invoker)cons[0].newInstance(j, reqdParams, optParams)).start();
 									}
